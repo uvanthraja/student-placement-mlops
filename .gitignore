@@ -50,14 +50,14 @@ mlartifacts/
 
 # ============================================================
 # Model artifacts
-# These will later be managed through MLflow/DVC
+# These are generated during training and are not committed
 # ============================================================
 
 *.pkl
 
 # ============================================================
 # Raw dataset
-# Dataset will later be versioned using DVC
+# students.csv is tracked directly in Git for the CI pipeline
 # ============================================================
 
 data/raw/*.xlsx
