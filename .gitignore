@@ -60,5 +60,4 @@ mlartifacts/
 # Dataset will later be versioned using DVC
 # ============================================================
 
-data/raw/*.csv
 data/raw/*.xlsx
