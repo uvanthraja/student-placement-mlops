@@ -15,6 +15,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    # DVC Google Drive authentication
+    env:
+      GDRIVE_CREDENTIALS_DATA: ${{ secrets.GDRIVE_CREDENTIALS_DATA }}
+
     steps:
 
       # --------------------------------------------------
@@ -43,7 +47,15 @@ jobs:
           pip install -r requirements.txt
 
       # --------------------------------------------------
-      # 4. Check Python files
+      # 4. Pull dataset from DVC
+      # --------------------------------------------------
+
+      - name: Pull dataset from DVC
+        run: |
+          dvc pull
+
+      # --------------------------------------------------
+      # 5. Check Python files
       # --------------------------------------------------
 
       - name: Compile Python files
@@ -51,7 +63,7 @@ jobs:
           python -m compileall src
 
       # --------------------------------------------------
-      # 5. Run data validation
+      # 6. Run data validation
       # --------------------------------------------------
 
       - name: Validate dataset
@@ -59,7 +71,7 @@ jobs:
           python src/data/validate.py
 
       # --------------------------------------------------
-      # 6. Run automated ML pipeline
+      # 7. Run automated ML pipeline
       # --------------------------------------------------
 
       - name: Run ML pipeline
@@ -67,7 +79,7 @@ jobs:
           python src/pipeline.py
 
       # --------------------------------------------------
-      # 7. Check generated model
+      # 8. Check generated model
       # --------------------------------------------------
 
       - name: Check model artifact
@@ -76,7 +88,7 @@ jobs:
           echo "Model artifact exists"
 
       # --------------------------------------------------
-      # 8. Finish
+      # 9. Finish
       # --------------------------------------------------
 
       - name: Pipeline completed
