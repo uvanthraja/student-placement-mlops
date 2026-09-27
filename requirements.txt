@@ -1,0 +1,28 @@
+# Machine Learning
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+notebook
+
+# MLOps
+mlflow
+dvc
+
+# API
+fastapi
+uvicorn
+
+# Web Application
+streamlit
+
+# Monitoring
+evidently

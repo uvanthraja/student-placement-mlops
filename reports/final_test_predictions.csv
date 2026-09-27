@@ -1,0 +1,401 @@
+Age,Gender,Branch,Average GPA,Backlogs,Attendance (%),Clubs,Skills,Internship Done,Internship Domain,Alumni Path,Sem1 GPA,Sem2 GPA,Sem3 GPA,Sem4 GPA,Sem5 GPA,Sem6 GPA,Sem7 GPA,Sem8 GPA,Actual_Target,Predicted_Target,Placement_Probability,Prediction_Correct
+19.0,Female,CIVIL,7.04,0.0,61.09,"Literary Society, Robotics, Coding Club","Python, Java, Data Science, Machine Learning, SQL",Yes,Hardware,Startup,7.68,7.79,5.43,7.38,8.37,6.64,6.43,6.58,1,1,0.998607,True
+18.0,Male,CIVIL,7.04,0.0,76.21,Cultural Club,"C++, Web Development, SQL",No,,Research,7.53,8.62,7.02,5.54,6.31,5.22,8.29,7.76,1,1,0.7350577,True
+20.0,Female,CSE,6.35,1.0,84.65,Sports Club,"C++, Java, Machine Learning, Web Development, Data Science",No,,,5.91,7.53,6.88,6.32,5.62,5.53,6.39,6.61,0,0,0.044112988,True
+23.0,Female,IT,6.97,0.0,67.53,Coding Club,"SQL, Machine Learning, Python",No,,,7.55,7.68,5.06,6.24,6.12,7.1,7.48,8.5,0,0,0.060351767,True
+18.0,Female,EEE,6.73,0.0,64.75,"Coding Club, Entrepreneurship Cell","C++, SQL",No,,,5.79,6.82,6.73,7.22,6.8,6.93,7.64,5.89,0,0,0.07097155,True
+22.0,Female,IT,7.38,1.0,75.52,Cultural Club,"SQL, Java, Python",Yes,Hardware,Startup,8.05,6.92,8.74,7.86,7.57,8.09,7.33,4.51,1,1,0.9985808,True
+18.0,Female,ECE,7.31,1.0,70.19,Robotics,"SQL, Python, Java, Data Science, Machine Learning",No,,Startup,6.66,8.16,7.65,7.37,7.62,6.43,6.29,8.27,1,1,0.9977483,True
+18.0,Female,CSE,7.35,0.0,83.77,"Coding Club, Literary Society, Sports Club","SQL, C++",Yes,Hardware,,8.29,7.06,9.05,5.37,6.44,7.03,8.14,7.4,0,0,0.13071376,True
+22.0,Male,MECH,6.86,0.0,72.22,Literary Society,"SQL, Python, C++",Yes,Core Engineering,Higher Studies,7.62,5.32,7.66,6.86,8.51,5.87,6.44,6.63,1,1,0.99852234,True
+23.0,Male,MECH,7.15,1.0,90.59,"Literary Society, Sports Club, Entrepreneurship Cell","SQL, Web Development, Data Science, Machine Learning, Python",Yes,Research,Startup,6.64,7.06,7.13,7.3,7.76,6.99,7.35,6.96,1,1,0.9975567,True
+22.0,Male,CIVIL,6.86,0.0,96.83,"Sports Club, Literary Society, Robotics","Machine Learning, SQL, Python, Java, Web Development",Yes,Hardware,Job,6.77,8.44,6.11,5.48,7.44,7.62,6.41,6.65,1,1,0.9984276,True
+21.0,Female,MECH,6.61,0.0,87.45,"Literary Society, Sports Club","C++, SQL, Machine Learning",No,,Job,5.26,6.31,6.82,6.89,5.52,8.15,6.9,7.04,1,1,0.998473,True
+19.0,Male,CSE,6.26,1.0,79.23,"Literary Society, Entrepreneurship Cell","C++, SQL, Data Science, Java, Machine Learning",Yes,Research,Higher Studies,7.43,6.28,4.97,5.68,7.02,5.87,6.93,5.93,1,1,0.99722254,True
+21.0,Male,ECE,7.3,2.0,95.12,Entrepreneurship Cell,"Data Science, SQL, Java, C++, Python",No,,Startup,7.94,8.24,7.33,7.14,6.03,8.99,5.58,7.12,1,1,0.99800354,True
+20.0,Female,EEE,7.32,1.0,82.41,"Robotics, Entrepreneurship Cell, Literary Society","Java, C++",Yes,Software,Job,6.81,7.46,6.83,7.56,7.77,8.61,6.49,6.99,1,1,0.9983625,True
+23.0,Female,CSE,6.74,1.0,98.22,"Literary Society, Robotics","Python, SQL, Java",No,,Startup,6.08,6.51,6.62,7.29,6.11,7.32,7.49,6.53,1,1,0.9987924,True
+21.0,Female,ECE,6.85,0.0,77.49,Literary Society,"Data Science, Machine Learning, SQL, Python",No,,Job,6.86,5.69,8.14,7.82,6.72,6.6,6.85,6.1,1,1,0.997752,True
+23.0,Female,CIVIL,7.15,0.0,92.66,Cultural Club,"Data Science, Python, Web Development, SQL",No,,Job,7.15,7.49,7.48,6.25,7.92,8.23,6.74,5.97,1,1,0.99770856,True
+18.0,Male,CIVIL,6.48,0.0,90.07,"Entrepreneurship Cell, Literary Society","C++, Web Development",Yes,Consulting,Research,6.83,6.14,5.76,7.17,6.82,6.56,7.08,5.48,1,1,0.6352309,True
+19.0,Female,EEE,6.46,0.0,77.92,"Cultural Club, Coding Club","Web Development, Machine Learning, SQL, Data Science",Yes,Higher Studies,Startup,5.55,6.38,8.0,6.45,5.29,6.1,6.71,7.17,1,1,0.99839574,True
+19.0,Male,MECH,6.68,1.0,73.34,Cultural Club,"Data Science, Machine Learning, Web Development",No,,,7.15,6.75,4.97,8.42,6.89,8.83,5.24,5.23,0,0,0.05135357,True
+18.0,Female,IT,7.23,1.0,99.09,"Coding Club, Entrepreneurship Cell","Python, SQL",Yes,Higher Studies,,8.11,8.19,7.64,5.86,8.63,5.85,7.3,6.25,0,0,0.08021019,True
+18.0,Male,CIVIL,6.9,2.0,69.61,"Cultural Club, Entrepreneurship Cell","Data Science, Web Development, Machine Learning, Python",Yes,Consulting,,6.66,6.01,7.71,6.57,6.53,6.99,6.18,8.53,0,0,0.037326038,True
+23.0,Male,CSE,6.51,1.0,80.2,Entrepreneurship Cell,"SQL, Web Development, Data Science, Machine Learning, Java",No,,,7.72,5.23,6.28,6.31,7.41,7.53,7.1,4.52,0,0,0.07112883,True
+19.0,Male,IT,6.62,2.0,83.45,"Sports Club, Literary Society","C++, Java, Data Science",No,,,4.0,6.55,7.76,6.61,6.53,5.96,8.0,7.55,0,0,0.1035386,True
+23.0,Female,EEE,6.71,0.0,84.81,"Robotics, Coding Club","Web Development, Machine Learning, SQL, Java",No,,Job,6.17,7.96,7.12,5.49,7.45,6.07,6.23,7.2,1,1,0.9983918,True
+20.0,Male,IT,6.09,0.0,62.09,"Coding Club, Entrepreneurship Cell","Data Science, Web Development, C++",No,,,7.57,6.14,5.58,5.33,6.78,5.98,4.67,6.64,0,0,0.27590868,True
+23.0,Male,IT,7.39,0.0,76.12,"Literary Society, Sports Club, Cultural Club","C++, Java, Machine Learning, Python",No,,Research,6.58,5.87,7.22,7.77,7.68,6.86,9.0,8.14,1,1,0.78933185,True
+18.0,Female,EEE,7.1,1.0,63.66,"Entrepreneurship Cell, Coding Club","C++, SQL, Web Development",No,,,8.98,6.95,5.44,6.6,7.5,7.53,5.91,7.93,0,0,0.04398831,True
+18.0,Male,ECE,7.31,1.0,70.19,Robotics,"SQL, Python, Java, Data Science, Machine Learning",No,,Startup,6.66,8.16,7.65,7.37,7.62,6.43,6.29,8.27,1,1,0.9977483,True
+21.0,Female,EEE,6.71,2.0,77.43,"Robotics, Entrepreneurship Cell","Web Development, C++",No,,Research,5.31,5.68,6.72,5.72,8.37,7.49,6.2,8.17,1,1,0.56130093,True
+21.0,Female,EEE,6.99,0.0,79.66,"Entrepreneurship Cell, Literary Society, Coding Club","Web Development, C++, Java, Python",Yes,Core Engineering,,7.16,6.61,6.48,6.96,6.09,7.03,6.95,8.64,0,0,0.06399907,True
+20.0,Female,MECH,7.14,2.0,95.54,Cultural Club,"Machine Learning, Web Development, Java, Python",Yes,Higher Studies,,8.4,7.37,7.04,6.66,6.92,8.15,5.86,6.72,0,0,0.03595165,True
+22.0,Female,ECE,6.66,1.0,61.42,Sports Club,"Data Science, Machine Learning, SQL, Python, Java",No,,,7.32,7.17,6.0,6.82,4.82,7.18,8.43,5.53,0,0,0.01850403,True
+23.0,Female,CSE,6.91,0.0,78.21,"Cultural Club, Sports Club","Java, Data Science, Machine Learning",No,,,6.32,8.8,6.96,5.57,7.13,6.32,7.84,6.35,0,0,0.018433582,True
+21.0,Male,CIVIL,7.1,2.0,63.81,"Entrepreneurship Cell, Robotics, Literary Society","Java, SQL",Yes,Consulting,Research,8.6,6.26,8.41,7.03,6.12,8.41,5.79,6.2,1,0,0.39680895,False
+21.0,Male,CIVIL,6.56,0.0,66.7,Cultural Club,"Java, SQL, Machine Learning, Web Development",No,,Job,7.34,7.31,6.33,6.82,6.34,6.3,5.27,6.77,1,1,0.9981067,True
+21.0,Male,MECH,7.62,1.0,98.72,Coding Club,"SQL, C++, Java, Data Science",No,,,7.8,7.15,8.8,6.93,7.57,7.83,5.25,9.62,0,0,0.09135447,True
+19.0,Male,ECE,7.2,1.0,65.57,"Sports Club, Cultural Club, Coding Club","SQL, Data Science, Python",No,,,7.93,6.78,8.07,8.45,6.08,6.16,6.86,7.31,0,0,0.04836288,True
+19.0,Male,EEE,6.73,3.0,65.99,"Entrepreneurship Cell, Literary Society, Sports Club","Python, Java, SQL, Data Science",Yes,Hardware,,6.54,5.92,7.18,7.27,5.38,7.38,8.07,6.09,0,0,0.18032452,True
+19.0,Female,CIVIL,6.91,0.0,96.23,"Entrepreneurship Cell, Cultural Club","Machine Learning, Web Development, Data Science, SQL, Java",No,,Higher Studies,8.14,7.18,4.97,5.81,6.02,6.75,9.08,7.36,1,1,0.9982315,True
+22.0,Female,MECH,6.49,0.0,71.11,Cultural Club,"Web Development, Python, SQL, C++",Yes,Research,,8.16,7.12,6.52,7.78,4.62,5.56,6.51,5.66,0,0,0.020758593,True
+19.0,Male,IT,6.79,0.0,95.55,"Cultural Club, Coding Club","Data Science, Java, SQL, Machine Learning",Yes,Core Engineering,,5.45,5.6,6.92,9.25,6.8,6.82,5.56,7.95,0,0,0.079804756,True
+23.0,Female,CIVIL,7.51,0.0,63.39,Entrepreneurship Cell,"C++, Python",Yes,Consulting,,8.3,8.56,7.03,6.25,7.46,6.32,9.01,7.14,0,0,0.041757066,True
+22.0,Female,ECE,7.07,0.0,78.76,"Coding Club, Sports Club, Robotics","Web Development, SQL, Python, C++",No,,Research,7.35,5.76,8.63,7.41,6.74,7.22,7.93,5.53,1,1,0.7492129,True
+19.0,Male,IT,6.63,0.0,76.01,Literary Society,"Python, C++, Data Science",No,,,7.52,5.17,5.44,8.86,6.27,7.2,5.51,7.09,0,0,0.2157253,True
+18.0,Female,ECE,6.7,0.0,61.44,"Literary Society, Entrepreneurship Cell, Cultural Club","Web Development, Machine Learning, Java",No,,,6.42,6.78,7.64,6.49,6.88,7.27,6.1,6.03,0,0,0.045274813,True
+20.0,Female,EEE,7.12,2.0,64.88,Robotics,"Java, Web Development, SQL, Machine Learning",No,,Higher Studies,8.62,7.82,7.29,7.9,6.39,6.68,5.52,6.77,1,1,0.99738866,True
+20.0,Male,MECH,6.96,1.0,76.71,Literary Society,"Data Science, C++, Java",No,,Higher Studies,7.18,7.37,6.23,7.63,7.58,7.49,5.79,6.41,1,1,0.99827397,True
+21.0,Female,EEE,7.41,2.0,67.64,"Sports Club, Cultural Club","Python, Java, Web Development",Yes,Hardware,Research,6.74,6.81,8.12,8.27,6.83,8.1,7.36,7.06,1,1,0.7748713,True
+23.0,Female,CSE,7.33,2.0,91.85,Literary Society,"C++, SQL, Web Development, Java",Yes,Consulting,,8.31,7.86,6.03,7.36,8.96,5.18,6.81,8.16,0,0,0.03157746,True
+20.0,Male,ECE,6.8,3.0,63.4,Robotics,"Python, SQL, Data Science",No,,Higher Studies,8.54,6.34,6.62,7.28,5.7,6.24,7.02,6.7,1,1,0.9977102,True
+19.0,Male,ECE,7.14,2.0,73.61,"Sports Club, Literary Society, Robotics","Data Science, Python, Web Development",No,,,6.04,7.94,6.13,6.79,7.56,6.38,7.69,8.6,0,0,0.054424662,True
+21.0,Female,ECE,7.23,2.0,89.0,"Cultural Club, Sports Club","Machine Learning, Java",Yes,Software,,7.83,7.25,6.54,7.86,7.9,7.06,7.44,5.97,0,0,0.016297653,True
+18.0,Male,IT,6.94,0.0,74.19,Literary Society,"Data Science, Machine Learning, Java",No,,Higher Studies,8.15,6.22,8.56,5.47,8.63,6.63,6.76,5.11,1,1,0.9989114,True
+23.0,Male,EEE,6.51,0.0,66.25,Sports Club,"Web Development, SQL, Python, Machine Learning, C++",No,,,6.16,6.4,7.88,6.17,5.9,6.56,6.71,6.33,0,0,0.297325,True
+23.0,Female,CIVIL,7.08,2.0,60.04,Literary Society,"Data Science, SQL",No,,,7.44,6.27,7.23,5.14,7.6,7.3,7.64,8.06,0,0,0.038361605,True
+22.0,Male,CSE,7.63,0.0,63.36,"Coding Club, Robotics","Web Development, Java",No,,,8.51,8.12,5.58,7.22,7.74,7.62,6.37,9.91,0,0,0.13729425,True
+18.0,Male,ECE,6.67,1.0,98.74,Robotics,"Web Development, Data Science, Python",No,,Higher Studies,7.27,6.46,5.61,6.95,6.96,6.74,7.78,5.62,1,1,0.99857664,True
+19.0,Female,CSE,6.96,2.0,71.74,Robotics,"Machine Learning, SQL, Java",No,,Research,7.17,7.39,6.12,7.15,7.06,5.86,7.36,7.56,1,0,0.065322116,False
+21.0,Male,CSE,6.74,1.0,71.65,"Cultural Club, Robotics, Literary Society","Web Development, Python, Machine Learning",Yes,Research,,5.89,7.32,7.28,8.01,6.42,6.47,6.43,6.08,0,0,0.04166818,True
+19.0,Male,ECE,6.46,0.0,65.45,"Literary Society, Coding Club","C++, SQL, Web Development",No,,,7.37,6.37,6.45,5.99,6.55,6.99,6.46,5.52,0,0,0.064860985,True
+22.0,Male,ECE,7.38,0.0,93.87,"Coding Club, Cultural Club","Web Development, Data Science",Yes,Consulting,,6.6,8.58,7.57,8.74,7.12,7.56,6.76,6.15,0,0,0.023818986,True
+19.0,Female,ECE,6.46,0.0,65.45,"Literary Society, Coding Club","C++, SQL, Web Development",No,,,7.37,6.37,6.45,5.99,6.55,6.99,6.46,5.52,0,0,0.058782745,True
+18.0,Male,ECE,7.03,0.0,81.33,"Sports Club, Coding Club","Data Science, Web Development",Yes,Core Engineering,,6.45,8.69,7.47,6.98,7.02,6.05,6.93,6.65,0,0,0.08595438,True
+20.0,Male,CSE,6.69,2.0,65.62,Sports Club,"Web Development, SQL, Python, Java",Yes,Research,Research,6.44,6.79,5.32,6.19,7.96,8.62,5.77,6.41,1,1,0.85234463,True
+20.0,Female,IT,7.61,2.0,78.01,Robotics,"Java, Web Development, C++, SQL",No,,Startup,6.23,8.37,8.97,6.96,8.25,5.94,8.08,8.05,1,1,0.99799734,True
+20.0,Female,CSE,6.3,2.0,79.84,Entrepreneurship Cell,"Web Development, SQL, Python, Machine Learning, Java",Yes,Consulting,,5.12,7.32,6.22,5.48,8.13,6.96,4.92,6.22,0,0,0.0406627,True
+20.0,Male,CSE,7.08,0.0,73.04,"Coding Club, Literary Society, Robotics","SQL, Python",No,,Research,8.04,6.39,7.23,5.56,6.5,5.94,8.22,8.74,1,1,0.8537127,True
+18.0,Male,CSE,7.15,1.0,75.19,Entrepreneurship Cell,"SQL, Data Science",Yes,Core Engineering,,7.44,8.18,7.16,7.49,7.7,6.12,7.46,5.66,0,0,0.09448264,True
+18.0,Male,EEE,7.07,1.0,85.5,Robotics,"Java, Data Science, Machine Learning, C++",Yes,Research,Higher Studies,5.43,6.73,7.46,7.55,7.55,7.8,6.55,7.5,1,1,0.9981053,True
+18.0,Male,EEE,6.5,1.0,90.15,Entrepreneurship Cell,"Data Science, SQL, Web Development, Java",No,,,6.15,6.08,6.64,6.18,7.71,6.25,5.83,7.14,0,0,0.07954261,True
+20.0,Female,EEE,6.93,2.0,67.47,Literary Society,"C++, Web Development, Data Science, Machine Learning",No,,Research,6.52,5.69,7.59,7.57,6.38,5.9,8.56,7.25,1,1,0.67869455,True
+18.0,Male,CIVIL,6.81,1.0,67.96,Sports Club,"C++, Machine Learning",Yes,Consulting,,4.62,7.75,7.13,7.43,6.29,6.62,6.59,8.02,0,0,0.20630904,True
+18.0,Male,CIVIL,7.04,5.0,70.1,"Cultural Club, Robotics","SQL, Python, Java, Machine Learning",Yes,Research,Research,7.52,7.33,5.48,7.48,7.69,6.66,8.04,6.15,1,1,0.72543395,True
+22.0,Male,CSE,6.77,0.0,68.46,Cultural Club,"C++, Machine Learning",Yes,Consulting,,5.82,8.25,7.3,5.79,8.76,6.87,5.06,6.29,0,0,0.08077224,True
+23.0,Male,MECH,6.9,2.0,60.62,"Sports Club, Literary Society, Entrepreneurship Cell","Machine Learning, Python, C++, Web Development, SQL",Yes,Higher Studies,,5.88,6.08,8.02,7.27,7.55,7.34,7.39,5.67,0,0,0.04952139,True
+20.0,Female,EEE,7.37,1.0,68.19,"Robotics, Coding Club, Cultural Club","Web Development, Machine Learning",Yes,Core Engineering,Research,5.16,7.29,8.25,8.38,8.86,5.23,8.63,7.18,1,1,0.8658448,True
+21.0,Male,CIVIL,6.98,2.0,75.09,"Robotics, Entrepreneurship Cell","C++, Java, Data Science, Web Development, Machine Learning",Yes,Software,,6.14,8.13,6.73,6.22,7.73,6.51,8.03,6.34,0,0,0.07457566,True
+22.0,Male,IT,7.2,2.0,87.45,Cultural Club,"Java, Python, Machine Learning, C++",Yes,Hardware,,8.8,6.68,6.36,7.42,6.44,6.47,6.8,8.65,0,0,0.26467162,True
+23.0,Female,IT,7.65,2.0,81.2,"Cultural Club, Coding Club","C++, Machine Learning, Web Development",Yes,Consulting,,8.0,9.37,7.28,8.44,6.6,7.54,6.5,7.48,0,0,0.017192373,True
+19.0,Female,EEE,7.11,0.0,71.71,Sports Club,"Machine Learning, Data Science",Yes,Consulting,Research,7.05,7.08,9.01,6.79,7.28,5.37,6.97,7.33,1,0,0.16760461,False
+21.0,Female,ECE,6.72,0.0,84.32,"Entrepreneurship Cell, Sports Club","Machine Learning, C++, Data Science, Web Development, SQL",Yes,Software,,7.89,7.13,5.97,6.8,5.01,8.3,6.18,6.47,0,0,0.10131075,True
+18.0,Female,IT,6.87,2.0,79.01,Cultural Club,"Machine Learning, Web Development, SQL, Data Science, C++",Yes,Software,,7.08,8.18,6.56,6.69,5.67,6.26,7.53,7.01,0,0,0.06350357,True
+21.0,Male,EEE,7.24,2.0,79.23,"Robotics, Coding Club, Sports Club","Machine Learning, C++, Java, Python, Data Science",Yes,Research,Research,7.41,8.1,5.89,7.64,6.11,8.85,7.37,6.58,1,0,0.31257838,False
+19.0,Female,IT,7.04,0.0,96.13,"Literary Society, Cultural Club, Sports Club","SQL, Web Development, Machine Learning, Data Science",No,,,7.31,7.81,7.31,5.97,6.46,6.37,7.54,7.56,0,0,0.13016514,True
+18.0,Female,EEE,6.73,2.0,77.75,Cultural Club,"Java, Python, C++, Data Science",Yes,Consulting,,7.57,6.56,5.56,6.42,6.46,8.07,7.17,6.04,0,0,0.16808309,True
+23.0,Male,EEE,6.82,1.0,87.49,Literary Society,"Web Development, SQL",No,,,6.37,7.73,6.8,6.54,7.04,5.25,7.49,7.38,0,0,0.04557528,True
+21.0,Female,CSE,7.49,0.0,94.13,"Coding Club, Entrepreneurship Cell, Cultural Club","SQL, C++, Web Development",No,,Higher Studies,6.64,9.5,7.78,7.08,7.31,7.41,7.44,6.76,1,1,0.99803346,True
+19.0,Male,ECE,7.67,2.0,97.32,Coding Club,"Java, Data Science, SQL",Yes,Research,Startup,9.0,8.98,7.63,5.99,9.39,6.4,6.79,7.16,1,1,0.9981786,True
+23.0,Female,CIVIL,7.24,0.0,72.32,"Cultural Club, Sports Club, Literary Society","Data Science, Web Development",Yes,Higher Studies,Research,7.14,7.45,6.87,8.09,4.9,9.94,6.13,7.4,1,1,0.6867898,True
+22.0,Male,IT,6.43,0.0,64.0,"Robotics, Cultural Club","C++, Python, Web Development, SQL, Java",Yes,Software,,7.76,5.89,6.14,7.79,7.63,4.75,4.54,6.92,0,0,0.07610074,True
+23.0,Female,CIVIL,7.38,0.0,81.46,"Sports Club, Entrepreneurship Cell, Literary Society","C++, Java, Python, Data Science",No,,Research,7.83,8.01,6.5,7.39,7.66,6.09,8.64,6.96,1,1,0.6520076,True
+21.0,Female,EEE,6.72,3.0,89.49,Sports Club,"Machine Learning, Python",Yes,Higher Studies,Job,7.55,6.45,8.92,6.23,5.31,6.53,5.02,7.75,1,1,0.998212,True
+23.0,Male,MECH,6.74,0.0,94.48,"Literary Society, Robotics, Cultural Club","C++, Data Science",Yes,Higher Studies,Startup,6.77,6.82,6.52,7.69,6.37,6.64,5.74,7.38,1,1,0.99847037,True
+23.0,Male,ECE,7.57,1.0,70.79,"Cultural Club, Sports Club","Python, Java, C++, Data Science",Yes,Research,,7.09,7.75,6.39,8.08,6.86,9.59,5.39,9.43,0,0,0.058883324,True
+23.0,Male,CIVIL,7.25,0.0,96.35,"Entrepreneurship Cell, Literary Society","SQL, Machine Learning, Data Science, Java",No,,,7.36,7.55,6.75,6.36,7.07,5.91,8.1,8.87,0,0,0.10690208,True
+22.0,Male,IT,6.92,1.0,63.74,"Cultural Club, Literary Society, Entrepreneurship Cell","Python, C++, SQL, Web Development",No,,Higher Studies,7.72,6.61,5.41,6.79,7.62,8.81,5.8,6.57,1,1,0.99862397,True
+23.0,Male,MECH,6.96,2.0,69.32,"Literary Society, Coding Club","Machine Learning, C++, Python, Web Development, SQL",No,,,6.83,5.81,8.68,6.18,7.73,5.7,6.78,7.99,0,0,0.16527751,True
+20.0,Female,IT,7.1,0.0,94.71,Entrepreneurship Cell,"C++, SQL, Data Science, Machine Learning, Python",Yes,Consulting,Research,6.83,8.83,5.91,6.69,8.5,6.68,6.06,7.26,1,1,0.64421743,True
+23.0,Female,ECE,6.6,3.0,93.54,"Cultural Club, Robotics, Entrepreneurship Cell","Machine Learning, C++, Web Development, Java, SQL",No,,Startup,7.57,6.87,6.03,6.73,6.01,7.06,5.22,7.34,1,1,0.9984497,True
+21.0,Male,ECE,6.87,0.0,90.77,Sports Club,"Data Science, Machine Learning, SQL, Python",Yes,Software,,6.54,7.23,8.7,5.86,5.69,6.14,7.7,7.13,0,0,0.03694087,True
+18.0,Female,CSE,7.31,1.0,83.37,"Cultural Club, Literary Society","Web Development, Machine Learning, C++, Python, SQL",No,,Startup,7.22,7.01,7.1,6.23,7.02,7.5,8.45,7.96,1,1,0.997806,True
+19.0,Female,ECE,7.15,1.0,60.77,"Literary Society, Robotics, Entrepreneurship Cell","SQL, Python",Yes,Research,,8.43,6.39,7.33,6.55,7.75,5.88,7.74,7.11,0,0,0.10032124,True
+23.0,Male,CIVIL,7.11,1.0,86.15,"Robotics, Coding Club, Literary Society","Machine Learning, Data Science",No,,Higher Studies,8.48,6.21,7.67,7.07,6.58,6.74,8.58,5.55,1,1,0.9987686,True
+23.0,Male,EEE,7.12,0.0,82.25,"Robotics, Literary Society","Java, C++, Machine Learning, SQL, Python",Yes,Core Engineering,Research,7.28,9.04,7.57,7.6,6.73,6.02,6.47,6.29,1,1,0.5615559,True
+18.0,Female,IT,7.03,1.0,92.22,"Entrepreneurship Cell, Cultural Club, Sports Club","Python, Web Development, C++, Java",Yes,Research,Higher Studies,6.66,6.75,6.6,9.52,6.92,6.7,7.08,6.03,1,1,0.9972139,True
+20.0,Male,CIVIL,7.15,2.0,78.34,"Coding Club, Sports Club, Literary Society","C++, SQL, Python, Web Development",Yes,Research,Higher Studies,5.85,7.81,7.65,7.11,7.95,8.12,6.62,6.1,1,1,0.99768,True
+22.0,Male,CIVIL,7.66,1.0,64.73,Coding Club,"Machine Learning, SQL",No,,Startup,6.46,8.24,6.41,7.08,7.83,7.45,8.35,9.49,1,1,0.9983454,True
+18.0,Male,IT,7.03,1.0,92.22,"Entrepreneurship Cell, Cultural Club, Sports Club","Python, Web Development, C++, Java",Yes,Research,Higher Studies,6.66,6.75,6.6,9.52,6.92,6.7,7.08,6.03,1,1,0.99731064,True
+23.0,Female,ECE,7.36,1.0,85.39,Literary Society,"Python, C++, SQL, Java",Yes,Hardware,,7.78,7.62,6.67,8.09,6.88,6.43,6.45,8.94,0,0,0.08125468,True
+21.0,Female,IT,7.14,0.0,67.17,"Robotics, Cultural Club","Data Science, Machine Learning",No,,,8.23,7.46,7.25,7.81,6.74,6.23,6.4,7.0,0,0,0.022726895,True
+21.0,Male,ECE,7.02,0.0,75.63,"Sports Club, Coding Club, Robotics","Data Science, SQL, Python, C++, Java",No,,,6.41,8.27,6.89,6.62,6.08,7.27,7.19,7.39,0,0,0.370779,True
+20.0,Female,CIVIL,6.79,0.0,78.24,"Entrepreneurship Cell, Coding Club, Cultural Club","SQL, Machine Learning",Yes,Research,,7.03,6.11,6.82,6.45,8.17,9.12,5.57,5.08,0,0,0.05522876,True
+22.0,Male,MECH,7.05,1.0,78.8,Coding Club,"Machine Learning, Python, Data Science",No,,,7.17,5.62,7.32,7.75,8.52,8.41,6.3,5.33,0,0,0.07816364,True
+19.0,Female,EEE,6.95,2.0,90.3,"Entrepreneurship Cell, Cultural Club","SQL, C++, Java, Python",Yes,Hardware,Job,5.69,7.85,6.44,6.13,6.8,8.48,6.61,7.58,1,1,0.9979273,True
+21.0,Male,EEE,6.96,0.0,73.54,Coding Club,"SQL, Web Development",No,,,5.83,6.62,6.53,7.8,7.07,9.55,4.99,7.31,0,0,0.027858213,True
+18.0,Female,MECH,6.8,1.0,90.49,"Entrepreneurship Cell, Robotics, Sports Club","Machine Learning, Data Science, C++, Web Development",Yes,Higher Studies,,6.6,7.97,6.37,6.47,6.52,6.8,7.09,6.59,0,0,0.07653944,True
+21.0,Male,CIVIL,6.97,1.0,89.22,Coding Club,"Web Development, Machine Learning, SQL, Java",Yes,Hardware,Job,6.02,7.0,6.86,8.06,8.51,8.48,4.74,6.06,1,1,0.99819463,True
+19.0,Male,MECH,7.24,1.0,67.32,"Literary Society, Sports Club, Cultural Club","SQL, Data Science, Web Development, Java, C++",Yes,Core Engineering,Research,7.4,6.75,9.02,7.23,6.55,7.34,6.57,7.09,1,1,0.800459,True
+19.0,Female,CIVIL,6.52,1.0,83.37,"Coding Club, Literary Society, Sports Club","Python, C++, Web Development, SQL, Java",Yes,Core Engineering,Research,8.19,7.22,7.08,6.12,6.3,5.81,4.82,6.61,1,0,0.07017966,False
+22.0,Male,MECH,6.13,5.0,62.36,"Entrepreneurship Cell, Coding Club","C++, Web Development, Java",No,,,6.48,6.68,4.35,8.35,7.91,5.27,4.94,5.05,0,0,0.04139079,True
+19.0,Female,ECE,7.56,1.0,70.26,"Cultural Club, Entrepreneurship Cell","Web Development, Data Science, C++, Python, Machine Learning",No,,,7.99,7.93,8.85,7.11,8.85,6.06,6.79,6.88,0,0,0.048958365,True
+19.0,Female,CIVIL,6.99,0.0,94.96,Cultural Club,"SQL, Data Science",No,,Higher Studies,6.28,6.77,8.18,7.19,6.47,7.48,5.9,7.68,1,1,0.9982097,True
+23.0,Female,CIVIL,7.29,0.0,99.88,"Entrepreneurship Cell, Sports Club","SQL, C++, Java, Data Science",No,,Research,8.2,5.48,6.44,7.38,8.57,6.93,6.44,8.88,1,1,0.8232077,True
+20.0,Male,CIVIL,6.23,2.0,68.32,"Entrepreneurship Cell, Sports Club","Machine Learning, Data Science",Yes,Research,,5.83,6.85,5.27,6.61,7.03,6.15,6.54,5.59,0,0,0.09419763,True
+21.0,Male,EEE,6.5,1.0,99.96,"Literary Society, Entrepreneurship Cell","SQL, Web Development, Python, Machine Learning",Yes,Higher Studies,,7.07,5.47,6.49,7.05,7.0,5.71,5.91,7.29,0,0,0.1584696,True
+21.0,Female,ECE,7.13,1.0,76.52,"Robotics, Literary Society","C++, Java",Yes,Research,,6.33,4.72,6.51,7.62,6.52,8.39,8.66,8.28,0,0,0.024271952,True
+19.0,Male,EEE,7.09,1.0,69.07,"Sports Club, Literary Society, Coding Club","SQL, Java",Yes,Research,Startup,8.54,5.42,6.86,8.41,7.4,6.51,5.45,8.15,1,1,0.997886,True
+19.0,Male,CIVIL,7.09,2.0,70.38,"Entrepreneurship Cell, Literary Society","Java, Data Science, SQL",No,,,7.92,6.52,8.01,5.72,7.41,6.2,7.2,7.77,0,0,0.12063431,True
+23.0,Male,CSE,6.88,0.0,63.39,Robotics,"Java, Web Development, SQL, Python, C++",No,,Startup,5.88,6.72,6.63,7.28,6.45,6.4,8.44,7.28,1,1,0.99851614,True
+18.0,Male,ECE,6.67,0.0,67.07,Entrepreneurship Cell,"Data Science, SQL, Web Development, C++",Yes,Higher Studies,Startup,4.64,7.65,7.35,7.09,6.78,6.19,8.51,5.16,1,1,0.9985483,True
+23.0,Male,IT,7.17,1.0,77.21,"Sports Club, Coding Club","C++, Machine Learning, Data Science, Python, Web Development",No,,,5.35,8.51,8.16,6.91,7.85,6.63,7.1,6.86,0,0,0.09117062,True
+20.0,Male,ECE,7.32,0.0,97.41,"Cultural Club, Entrepreneurship Cell","Java, Python, Data Science, SQL, Machine Learning",No,,,7.19,7.23,8.05,8.49,7.97,6.44,6.22,7.0,0,0,0.053538006,True
+18.0,Female,IT,7.05,1.0,71.47,"Robotics, Cultural Club","Java, Python",Yes,Software,,7.57,6.62,8.32,6.71,6.05,6.99,6.18,7.94,0,0,0.14302117,True
+19.0,Male,CIVIL,6.99,0.0,94.96,Cultural Club,"SQL, Data Science",No,,Higher Studies,6.28,6.77,8.18,7.19,6.47,7.48,5.9,7.68,1,1,0.9982097,True
+23.0,Male,IT,7.13,2.0,99.85,"Entrepreneurship Cell, Literary Society, Sports Club","SQL, Web Development, Python",No,,,6.35,6.52,6.68,7.42,7.52,6.43,6.98,9.14,0,0,0.044593643,True
+23.0,Male,IT,7.22,1.0,89.29,"Entrepreneurship Cell, Sports Club","Python, Data Science, Machine Learning, Web Development",Yes,Consulting,Startup,7.73,6.28,6.1,6.59,6.57,7.81,7.8,8.91,1,1,0.99822253,True
+23.0,Male,CIVIL,6.82,1.0,99.08,"Entrepreneurship Cell, Cultural Club","Machine Learning, Data Science, Web Development, Java",Yes,Higher Studies,Job,6.28,7.06,6.93,5.53,7.19,7.09,7.36,7.16,1,1,0.99770784,True
+18.0,Male,ECE,7.01,1.0,77.85,"Sports Club, Entrepreneurship Cell, Coding Club","Data Science, Web Development, Machine Learning",No,,Higher Studies,7.15,6.66,6.98,6.89,8.22,5.92,6.24,8.04,1,1,0.99794215,True
+22.0,Male,ECE,7.23,1.0,94.12,Coding Club,"C++, Java, Python, SQL",No,,Higher Studies,7.72,10.0,7.46,7.02,5.9,5.11,8.17,6.45,1,1,0.99821633,True
+19.0,Male,CIVIL,7.38,3.0,89.21,"Literary Society, Coding Club, Entrepreneurship Cell","Data Science, C++",No,,,8.21,8.14,6.21,6.6,6.08,7.33,8.73,7.7,0,0,0.13780062,True
+21.0,Female,CIVIL,6.93,1.0,76.28,"Robotics, Entrepreneurship Cell","Machine Learning, Python, Web Development, Data Science, SQL",No,,,7.58,8.2,6.19,7.39,7.73,6.33,6.79,5.25,0,0,0.04356092,True
+23.0,Male,IT,7.22,1.0,63.76,"Robotics, Coding Club, Entrepreneurship Cell","C++, Python",No,,Job,7.57,7.46,6.35,7.51,6.57,7.47,6.9,7.97,1,1,0.9981629,True
+18.0,Female,CSE,6.47,0.0,89.79,Literary Society,"Web Development, SQL, Data Science, Machine Learning, Java",No,,Higher Studies,5.89,7.57,5.94,6.29,6.82,5.33,7.05,6.89,1,1,0.9984459,True
+20.0,Male,IT,6.9,1.0,85.87,"Sports Club, Coding Club, Entrepreneurship Cell","C++, Web Development, SQL, Data Science, Python",Yes,Software,Research,6.35,6.6,5.93,5.46,8.47,7.8,7.81,6.78,1,1,0.78591526,True
+22.0,Male,CSE,7.4,0.0,79.41,Entrepreneurship Cell,"C++, SQL, Web Development, Machine Learning, Data Science",Yes,Higher Studies,Research,7.33,7.51,6.87,7.34,9.12,8.55,6.05,6.4,1,1,0.72225726,True
+23.0,Female,MECH,6.58,1.0,70.52,Cultural Club,"SQL, C++, Web Development",No,,Higher Studies,7.36,5.28,6.64,5.78,8.18,6.42,5.91,7.03,1,1,0.99851614,True
+22.0,Male,CSE,7.16,0.0,61.81,"Coding Club, Sports Club","Java, C++",Yes,Software,,6.23,6.78,7.33,6.43,7.14,7.58,7.96,7.79,0,0,0.025595415,True
+20.0,Female,MECH,7.62,0.0,80.9,"Entrepreneurship Cell, Cultural Club","Java, Web Development",Yes,Core Engineering,,7.84,9.07,6.33,8.68,6.42,8.41,6.45,7.77,0,0,0.027695889,True
+19.0,Female,CSE,6.64,0.0,85.13,"Literary Society, Sports Club, Coding Club","Data Science, C++",No,,,6.61,5.98,5.97,6.63,7.64,7.93,6.5,5.85,0,0,0.14211391,True
+22.0,Female,CSE,7.07,0.0,87.41,"Literary Society, Entrepreneurship Cell","Web Development, Machine Learning",Yes,Higher Studies,Research,5.71,7.23,6.85,6.64,6.17,7.91,8.73,7.3,1,1,0.83179486,True
+20.0,Male,MECH,7.62,0.0,80.9,"Entrepreneurship Cell, Cultural Club","Java, Web Development",Yes,Core Engineering,,7.84,9.07,6.33,8.68,6.42,8.41,6.45,7.77,0,0,0.028520968,True
+18.0,Male,CIVIL,7.04,5.0,70.1,"Cultural Club, Robotics","SQL, Python, Java, Machine Learning",Yes,Research,Research,7.52,7.33,5.48,7.48,7.69,6.66,8.04,6.15,1,1,0.72543395,True
+21.0,Male,CSE,7.43,0.0,60.11,"Robotics, Sports Club, Literary Society","Machine Learning, Python, Web Development, Data Science, C++",No,,Research,7.22,8.67,7.57,7.63,7.7,6.08,6.43,8.12,1,1,0.66244465,True
+21.0,Male,CIVIL,7.01,1.0,63.18,Sports Club,"Python, C++, Data Science, Java",Yes,Consulting,Job,8.04,6.98,8.02,4.63,7.79,5.88,8.77,5.94,1,1,0.99789375,True
+19.0,Female,CIVIL,7.71,0.0,72.0,"Coding Club, Cultural Club, Sports Club","SQL, C++, Data Science",Yes,Consulting,Higher Studies,7.71,6.92,6.7,8.69,8.78,7.64,7.97,7.24,1,1,0.998226,True
+18.0,Female,MECH,7.48,0.0,68.42,"Cultural Club, Entrepreneurship Cell, Literary Society","Machine Learning, C++, Web Development",Yes,Software,,9.14,8.76,6.23,8.46,7.86,6.56,6.39,6.47,0,0,0.031444542,True
+19.0,Female,CSE,6.81,0.0,91.28,Robotics,"Web Development, Java, Python",No,,Job,6.63,7.28,6.78,6.72,7.21,6.27,6.8,6.79,1,1,0.9979533,True
+21.0,Male,MECH,6.18,0.0,71.43,"Cultural Club, Literary Society, Robotics","Python, Java, Web Development",No,,Research,7.1,5.48,6.46,7.28,6.12,5.89,4.74,6.34,1,1,0.57745326,True
+19.0,Female,EEE,7.36,0.0,80.61,"Literary Society, Sports Club, Entrepreneurship Cell","Data Science, Java, Web Development, SQL",Yes,Core Engineering,Research,6.58,6.9,7.52,8.19,7.1,5.5,7.63,9.45,1,1,0.5867035,True
+19.0,Male,CSE,6.45,2.0,96.36,"Coding Club, Literary Society","C++, SQL",Yes,Software,,5.67,4.82,6.3,7.16,7.1,7.15,5.59,7.8,0,0,0.15034455,True
+19.0,Male,MECH,7.4,1.0,61.61,Coding Club,"SQL, Data Science, Java, Machine Learning",Yes,Software,Research,7.02,6.2,7.58,7.46,8.54,8.26,6.31,7.82,1,0,0.23168626,False
+23.0,Male,ECE,6.97,1.0,69.0,"Entrepreneurship Cell, Coding Club","Data Science, SQL",Yes,Hardware,Higher Studies,7.14,7.01,9.64,8.49,5.42,6.1,6.22,5.77,1,1,0.9970956,True
+18.0,Female,IT,7.31,1.0,90.39,Entrepreneurship Cell,"SQL, Machine Learning, Web Development",Yes,Consulting,,7.97,8.6,5.52,6.33,7.52,6.11,8.36,8.06,0,0,0.025579557,True
+23.0,Male,ECE,6.92,2.0,62.26,"Coding Club, Entrepreneurship Cell","Python, SQL, Java",No,,Research,7.9,4.26,8.19,7.52,8.32,6.8,4.94,7.43,1,1,0.65978295,True
+23.0,Male,ECE,7.2,2.0,84.17,"Coding Club, Entrepreneurship Cell","C++, Data Science, SQL",Yes,Higher Studies,,6.8,6.39,7.14,7.01,8.35,6.89,8.37,6.68,0,0,0.039967857,True
+23.0,Female,ECE,6.59,1.0,74.06,"Literary Society, Sports Club","Java, Machine Learning, SQL, Web Development",Yes,Core Engineering,,6.95,5.88,7.3,5.28,7.28,6.72,7.37,5.95,0,0,0.024892397,True
+21.0,Female,IT,7.03,1.0,72.15,"Cultural Club, Literary Society","SQL, Java",No,,Higher Studies,7.44,8.94,6.4,7.38,8.3,5.2,7.27,5.32,1,1,0.9979359,True
+21.0,Male,CIVIL,7.64,4.0,81.11,"Sports Club, Literary Society, Robotics","C++, SQL, Data Science, Python",Yes,Research,Higher Studies,8.34,7.38,8.08,6.44,6.56,6.84,9.14,8.32,1,1,0.9975504,True
+19.0,Male,CSE,6.88,1.0,69.59,Coding Club,"Web Development, Java, Machine Learning, SQL",Yes,Core Engineering,,6.83,8.31,6.91,4.76,6.5,7.99,7.55,6.16,0,0,0.08871865,True
+23.0,Male,EEE,6.87,0.0,70.09,Robotics,"SQL, Web Development, Java, Python",No,,Job,8.18,6.79,5.03,6.89,7.65,5.99,8.33,6.08,1,1,0.9986957,True
+18.0,Female,EEE,7.0,0.0,60.75,Cultural Club,"Web Development, Java",Yes,Research,Startup,7.84,5.71,7.06,5.88,6.39,7.49,7.81,7.79,1,1,0.9983974,True
+18.0,Female,ECE,7.42,4.0,62.4,"Cultural Club, Robotics, Coding Club","Data Science, Python, Java, Web Development",No,,Higher Studies,8.05,7.57,6.32,7.01,7.73,7.06,8.25,7.4,1,1,0.99825805,True
+21.0,Female,EEE,6.86,0.0,65.43,Robotics,"C++, Machine Learning, Java, Web Development",No,,,6.55,6.51,7.87,5.32,6.68,6.76,7.58,7.61,0,0,0.080170214,True
+23.0,Female,MECH,7.24,2.0,71.52,"Coding Club, Entrepreneurship Cell, Literary Society","Data Science, SQL, Python, Java, Machine Learning",Yes,Higher Studies,Job,6.63,7.5,7.52,8.34,6.92,7.31,6.56,7.18,1,1,0.9981592,True
+19.0,Female,CSE,6.64,0.0,85.13,"Literary Society, Sports Club, Coding Club","Data Science, C++",No,,,6.61,5.98,5.97,6.63,7.64,7.93,6.5,5.85,0,0,0.14211391,True
+23.0,Female,CIVIL,7.51,0.0,63.39,Entrepreneurship Cell,"C++, Python",Yes,Consulting,,8.3,8.56,7.03,6.25,7.46,6.32,9.01,7.14,0,0,0.041757066,True
+18.0,Female,CSE,6.45,2.0,85.15,"Cultural Club, Robotics, Sports Club","Java, C++, Python, Web Development, SQL",No,,Startup,6.16,6.99,5.63,6.53,5.66,6.63,6.66,7.35,1,1,0.9977435,True
+20.0,Male,IT,7.06,1.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell","Python, SQL, Data Science, C++",Yes,Consulting,Higher Studies,7.0,7.05,6.68,7.55,8.05,7.58,6.79,5.78,1,1,0.99763536,True
+22.0,Female,MECH,6.62,0.0,98.26,"Sports Club, Robotics","Machine Learning, Java, SQL, Web Development, C++",Yes,Software,,5.14,6.7,7.45,7.74,5.41,7.64,6.75,6.12,0,0,0.30394894,True
+23.0,Male,IT,6.49,0.0,86.2,Robotics,"Data Science, Web Development, Java",Yes,Consulting,Higher Studies,5.41,6.34,6.1,7.81,7.12,5.71,7.88,5.57,1,1,0.99749136,True
+23.0,Female,CSE,7.09,2.0,69.36,"Cultural Club, Robotics","Python, SQL, Java, Web Development, Data Science",No,,Research,8.89,6.84,7.7,6.16,7.31,5.7,7.45,6.64,1,1,0.57403976,True
+19.0,Female,ECE,7.26,1.0,71.65,"Sports Club, Coding Club","Java, Data Science",No,,,7.12,8.9,6.61,7.69,8.19,5.11,6.36,8.06,0,0,0.113197796,True
+21.0,Male,IT,6.77,3.0,95.63,"Coding Club, Robotics, Sports Club","C++, Web Development, Java, Python, Data Science",No,,,7.2,5.95,7.78,6.37,7.2,6.54,7.35,5.8,0,0,0.2634941,True
+18.0,Male,CIVIL,7.65,0.0,67.22,"Coding Club, Cultural Club, Entrepreneurship Cell","Machine Learning, C++, Data Science, Java, Python",Yes,Software,Higher Studies,8.42,6.59,7.51,8.61,7.25,8.27,6.14,8.42,1,1,0.99759847,True
+21.0,Female,MECH,6.99,1.0,78.31,Literary Society,"Data Science, Python, Java",No,,Startup,5.94,8.06,7.2,6.72,6.56,7.14,7.41,6.88,1,1,0.9979399,True
+21.0,Male,EEE,7.1,3.0,69.03,"Robotics, Entrepreneurship Cell","Python, Java, SQL",No,,,7.15,7.1,7.44,7.84,7.39,7.45,5.42,7.05,0,0,0.036642835,True
+20.0,Male,EEE,6.89,1.0,82.96,Coding Club,"Web Development, Java, SQL, Data Science, C++",No,,Research,7.56,7.26,4.73,7.03,7.18,6.84,7.71,6.82,1,0,0.33453944,False
+22.0,Female,EEE,6.53,0.0,75.72,"Entrepreneurship Cell, Sports Club, Coding Club","C++, Data Science, Java, Machine Learning",No,,,7.45,5.13,5.84,6.72,6.7,5.79,7.39,7.25,0,0,0.104484014,True
+22.0,Male,EEE,7.78,0.0,95.15,"Literary Society, Sports Club, Cultural Club","Data Science, Machine Learning, Python, Web Development, SQL",No,,Job,6.98,8.19,9.53,6.47,6.51,8.04,7.68,8.85,1,1,0.99746203,True
+22.0,Male,MECH,6.95,0.0,75.25,"Literary Society, Robotics, Sports Club","SQL, Data Science, Python, C++",Yes,Software,Startup,7.72,7.45,6.84,6.08,7.09,5.44,7.14,7.87,1,1,0.9975795,True
+22.0,Female,IT,7.03,1.0,61.78,"Coding Club, Robotics","Python, Data Science, Web Development, SQL, C++",No,,,5.94,7.31,7.41,7.35,8.5,6.91,6.97,5.83,0,0,0.045338936,True
+23.0,Female,ECE,6.8,0.0,71.76,"Coding Club, Literary Society","Java, Web Development",Yes,Software,Job,7.67,8.37,6.42,7.13,5.68,6.39,7.39,5.33,1,1,0.9980381,True
+21.0,Female,MECH,6.99,0.0,70.45,"Literary Society, Robotics","C++, Machine Learning, Python, Java",Yes,Consulting,,8.34,5.24,6.06,7.81,7.18,7.04,8.26,5.99,0,0,0.02562985,True
+20.0,Female,CIVIL,7.51,3.0,63.54,Coding Club,"Machine Learning, Data Science, Java",Yes,Consulting,,7.95,7.51,7.73,7.52,6.36,7.43,7.8,7.75,0,0,0.08993258,True
+20.0,Male,CIVIL,7.58,2.0,74.3,Literary Society,"SQL, Python",Yes,Core Engineering,Research,7.59,7.73,7.83,7.97,6.72,9.05,6.65,7.11,1,0,0.08123323,False
+18.0,Male,CSE,6.8,1.0,87.1,"Cultural Club, Coding Club, Sports Club","SQL, Python, Java",No,,Job,7.5,5.6,7.37,4.9,7.63,7.89,6.41,7.12,1,1,0.9988174,True
+19.0,Male,ECE,6.99,1.0,89.39,"Sports Club, Robotics","Web Development, SQL",Yes,Core Engineering,Higher Studies,6.35,7.84,7.93,5.24,7.29,6.49,8.3,6.48,1,1,0.9973514,True
+21.0,Female,IT,7.33,2.0,67.73,Entrepreneurship Cell,"Machine Learning, Data Science, C++",Yes,Consulting,,5.43,7.32,7.46,6.93,7.78,8.92,7.14,7.69,0,0,0.06884224,True
+18.0,Male,MECH,7.48,0.0,68.42,"Cultural Club, Entrepreneurship Cell, Literary Society","Machine Learning, C++, Web Development",Yes,Software,,9.14,8.76,6.23,8.46,7.86,6.56,6.39,6.47,0,0,0.03584725,True
+22.0,Male,CIVIL,6.89,2.0,80.48,"Entrepreneurship Cell, Cultural Club","Machine Learning, SQL, Java, Python",Yes,Research,,7.91,5.52,5.98,6.92,6.77,6.93,7.8,7.29,0,0,0.18835343,True
+23.0,Male,ECE,7.6,1.0,75.16,Robotics,"Data Science, Web Development, C++, Python",No,,Higher Studies,8.99,7.35,8.63,6.5,6.7,7.27,7.15,8.25,1,1,0.9978702,True
+21.0,Male,MECH,6.61,2.0,78.47,Cultural Club,"Machine Learning, Web Development, C++, SQL, Data Science",No,,Startup,5.61,8.45,6.1,6.23,7.64,6.71,7.31,4.84,1,1,0.99779403,True
+23.0,Female,EEE,6.89,1.0,77.21,Literary Society,"C++, Data Science, Machine Learning, Java, SQL",Yes,Research,Startup,5.34,8.26,8.14,4.98,6.44,6.4,8.64,6.9,1,1,0.9986933,True
+23.0,Male,CIVIL,7.08,2.0,60.04,Literary Society,"Data Science, SQL",No,,,7.44,6.27,7.23,5.14,7.6,7.3,7.64,8.06,0,0,0.047727145,True
+18.0,Male,EEE,6.96,1.0,90.11,"Literary Society, Robotics","SQL, C++",No,,,8.26,7.88,6.32,7.76,6.83,5.07,7.16,6.38,0,0,0.043105695,True
+20.0,Male,ECE,6.87,1.0,89.07,"Literary Society, Sports Club, Cultural Club","Python, Web Development",No,,Startup,6.57,7.09,5.62,8.39,7.68,6.63,6.1,6.91,1,1,0.99807966,True
+20.0,Female,CIVIL,7.15,2.0,78.34,"Coding Club, Sports Club, Literary Society","C++, SQL, Python, Web Development",Yes,Research,Higher Studies,5.85,7.81,7.65,7.11,7.95,8.12,6.62,6.1,1,1,0.99768,True
+19.0,Female,MECH,7.36,0.0,62.56,Sports Club,"SQL, Python",Yes,Research,Startup,5.44,9.08,8.13,8.46,7.03,6.64,6.33,7.81,1,1,0.99761754,True
+18.0,Female,EEE,7.11,0.0,65.48,"Entrepreneurship Cell, Sports Club, Literary Society","Python, C++, SQL",Yes,Consulting,Job,6.49,7.14,7.87,5.56,9.0,8.18,5.29,7.37,1,1,0.99830914,True
+23.0,Female,MECH,7.1,0.0,94.72,"Entrepreneurship Cell, Literary Society","Python, Web Development",No,,,8.06,7.2,7.48,6.93,5.87,6.85,7.52,6.87,0,0,0.18655081,True
+19.0,Female,ECE,7.17,1.0,98.74,Cultural Club,"Data Science, Web Development",No,,Job,7.61,8.31,5.75,6.5,7.28,6.07,7.64,8.22,1,1,0.99803454,True
+22.0,Female,CIVIL,6.61,0.0,74.51,Literary Society,"SQL, Data Science, Web Development, Python, C++",Yes,Software,,6.03,7.04,7.19,8.93,6.34,5.29,5.95,6.11,0,0,0.03845653,True
+20.0,Male,MECH,7.63,1.0,72.86,"Cultural Club, Robotics, Coding Club","C++, Machine Learning, Java, Web Development, Python",No,,Research,8.85,7.6,8.62,7.49,8.52,7.37,7.73,4.87,1,1,0.74165297,True
+18.0,Male,IT,7.02,1.0,60.53,"Literary Society, Robotics","Python, Web Development, Java, C++, Data Science",No,,,8.06,6.9,6.65,6.73,7.27,5.19,8.33,7.04,0,0,0.05946491,True
+21.0,Male,CIVIL,7.18,0.0,72.84,"Literary Society, Entrepreneurship Cell, Sports Club","C++, SQL, Data Science, Java",Yes,Software,Startup,10.0,5.45,6.86,5.76,6.75,9.48,6.18,6.98,1,1,0.9975343,True
+22.0,Male,CSE,7.15,2.0,78.71,"Robotics, Sports Club","Web Development, Python, Machine Learning",Yes,Consulting,,7.48,6.3,8.4,5.86,6.62,6.79,7.61,8.12,0,0,0.15516898,True
+20.0,Male,EEE,7.16,0.0,91.52,"Sports Club, Literary Society, Coding Club","Data Science, C++",No,,,7.57,7.4,7.93,7.4,6.69,6.2,6.75,7.31,0,0,0.12699108,True
+23.0,Male,MECH,6.74,0.0,94.48,"Literary Society, Robotics, Cultural Club","C++, Data Science",Yes,Higher Studies,Startup,6.77,6.82,6.52,7.69,6.37,6.64,5.74,7.38,1,1,0.99847037,True
+22.0,Female,IT,7.03,1.0,61.78,"Coding Club, Robotics","Python, Data Science, Web Development, SQL, C++",No,,,5.94,7.31,7.41,7.35,8.5,6.91,6.97,5.83,0,0,0.045338936,True
+20.0,Male,CIVIL,6.62,2.0,89.64,"Literary Society, Robotics","Machine Learning, Python, Web Development",Yes,Core Engineering,,6.59,7.78,5.53,5.74,6.22,7.08,6.36,7.66,0,0,0.08765607,True
+20.0,Female,IT,7.06,1.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell","Python, SQL, Data Science, C++",Yes,Consulting,Higher Studies,7.0,7.05,6.68,7.55,8.05,7.58,6.79,5.78,1,1,0.99763536,True
+18.0,Male,CIVIL,6.58,0.0,87.67,"Cultural Club, Coding Club","Machine Learning, Data Science, C++, SQL",No,,,8.72,4.51,7.1,6.68,6.88,6.2,7.4,5.19,0,0,0.08872596,True
+19.0,Male,CSE,7.2,1.0,70.6,"Entrepreneurship Cell, Robotics","Machine Learning, Python, Web Development, Java",Yes,Higher Studies,Higher Studies,7.82,7.68,7.16,5.17,7.68,7.5,7.41,7.2,1,1,0.99832696,True
+18.0,Male,CSE,7.35,0.0,79.32,"Literary Society, Cultural Club, Entrepreneurship Cell","Web Development, SQL",Yes,Research,Startup,8.6,7.56,8.77,5.78,8.07,8.01,5.32,6.7,1,1,0.9976532,True
+20.0,Female,EEE,6.61,0.0,71.33,"Robotics, Sports Club","Machine Learning, Python, Data Science, Java",No,,,7.8,6.15,6.18,8.12,5.12,6.85,7.44,5.25,0,0,0.062695764,True
+20.0,Female,MECH,7.41,1.0,73.42,Literary Society,"Web Development, Python, C++, Data Science, Java",No,,,8.72,7.54,6.87,8.22,7.15,8.6,6.33,5.85,0,0,0.027206972,True
+21.0,Female,CIVIL,8.07,0.0,63.35,"Coding Club, Cultural Club, Entrepreneurship Cell","C++, Web Development, Machine Learning, Java, Python",Yes,Higher Studies,,7.59,8.42,8.46,8.34,7.87,9.09,7.44,7.33,0,0,0.07309631,True
+18.0,Female,IT,6.85,1.0,98.73,"Robotics, Literary Society, Entrepreneurship Cell","C++, Data Science, Machine Learning, SQL",No,,Startup,7.87,5.04,7.31,6.81,7.5,6.71,7.29,6.26,1,1,0.99867165,True
+23.0,Female,CIVIL,6.96,1.0,79.86,"Cultural Club, Entrepreneurship Cell","Machine Learning, Java",No,,,7.24,8.34,7.01,7.67,6.7,7.82,5.76,5.16,0,0,0.024053277,True
+22.0,Female,CSE,6.78,0.0,99.03,"Literary Society, Cultural Club, Entrepreneurship Cell","SQL, Python, Web Development, C++",No,,Startup,6.19,7.18,5.75,6.73,7.03,7.27,5.89,8.2,1,1,0.99813545,True
+18.0,Male,MECH,7.35,2.0,87.31,"Literary Society, Robotics, Entrepreneurship Cell","SQL, Web Development",No,,,6.58,6.73,6.27,8.1,7.31,7.32,8.22,8.23,0,0,0.04369672,True
+18.0,Female,MECH,7.61,0.0,70.75,"Robotics, Cultural Club, Sports Club","Data Science, Java, Web Development, SQL",Yes,Hardware,Higher Studies,7.94,7.18,8.25,7.39,8.56,6.56,7.14,7.83,1,1,0.9984465,True
+21.0,Male,CIVIL,7.61,1.0,86.43,"Literary Society, Coding Club, Robotics","Java, Machine Learning",Yes,Software,,8.36,8.34,7.02,7.93,8.03,6.75,6.84,7.59,0,0,0.030713717,True
+21.0,Female,CIVIL,7.01,1.0,63.18,Sports Club,"Python, C++, Data Science, Java",Yes,Consulting,Job,8.04,6.98,8.02,4.63,7.79,5.88,8.77,5.94,1,1,0.9978569,True
+18.0,Female,IT,7.05,1.0,71.47,"Robotics, Cultural Club","Java, Python",Yes,Software,,7.57,6.62,8.32,6.71,6.05,6.99,6.18,7.94,0,0,0.14302117,True
+19.0,Male,CIVIL,7.16,1.0,84.92,"Sports Club, Coding Club, Entrepreneurship Cell","Python, Data Science",Yes,Core Engineering,,7.42,6.5,6.15,6.68,8.21,6.66,8.05,7.65,0,0,0.09781216,True
+20.0,Male,CIVIL,7.01,0.0,85.33,"Sports Club, Entrepreneurship Cell","Data Science, Machine Learning, SQL, C++",Yes,Research,Higher Studies,7.14,7.98,7.86,7.62,7.01,7.06,5.31,6.1,1,1,0.9974789,True
+20.0,Male,CIVIL,7.1,1.0,72.56,Sports Club,"Web Development, Java, C++",Yes,Research,,5.25,8.01,7.75,7.23,7.04,5.22,7.77,8.49,0,0,0.05183129,True
+20.0,Female,ECE,7.04,2.0,98.41,"Sports Club, Cultural Club, Coding Club","Data Science, C++, Machine Learning",Yes,Core Engineering,Job,7.49,7.55,7.57,6.44,6.54,7.77,7.13,5.82,1,1,0.9978295,True
+18.0,Male,CIVIL,7.02,3.0,67.19,Cultural Club,"Web Development, Python, C++, SQL",Yes,Core Engineering,Research,6.63,6.67,7.17,6.12,5.56,8.37,8.46,7.18,1,0,0.38929424,False
+21.0,Female,EEE,6.97,2.0,75.45,"Literary Society, Entrepreneurship Cell","Java, Data Science, Machine Learning, Web Development, SQL",Yes,Higher Studies,,6.69,8.03,7.29,6.27,6.8,6.62,6.91,7.15,0,0,0.087025024,True
+19.0,Male,MECH,6.8,0.0,93.24,"Sports Club, Entrepreneurship Cell","Web Development, Python, C++, SQL, Java",No,,,6.27,7.51,7.6,6.19,6.54,6.41,6.9,6.97,0,0,0.042184174,True
+18.0,Female,CSE,6.43,0.0,72.11,Cultural Club,"C++, Python",Yes,Higher Studies,Higher Studies,5.0,5.62,8.1,6.56,6.56,6.03,7.92,5.63,1,1,0.998346,True
+20.0,Male,MECH,7.62,0.0,80.9,"Entrepreneurship Cell, Cultural Club","Java, Web Development",Yes,Core Engineering,,7.84,9.07,6.33,8.68,6.42,8.41,6.45,7.77,0,0,0.028520968,True
+20.0,Female,CSE,7.03,1.0,83.81,"Coding Club, Sports Club","Python, C++, Machine Learning",Yes,Hardware,Research,7.4,7.17,6.15,7.61,6.24,6.9,8.45,6.34,1,0,0.19272599,False
+22.0,Male,IT,7.22,1.0,81.13,Cultural Club,"SQL, C++, Data Science, Web Development, Python",Yes,Software,Job,6.23,7.07,8.03,7.5,7.25,7.08,7.4,7.2,1,1,0.9967327,True
+19.0,Male,ECE,6.99,1.0,89.39,"Sports Club, Robotics","Web Development, SQL",Yes,Core Engineering,Higher Studies,6.35,7.84,7.93,5.24,7.29,6.49,8.3,6.48,1,1,0.9973514,True
+23.0,Male,CSE,6.84,1.0,95.35,"Coding Club, Entrepreneurship Cell","Java, Python",No,,,6.13,6.31,7.09,9.51,7.17,4.43,6.36,7.68,0,0,0.13934864,True
+23.0,Female,CSE,6.35,1.0,93.56,Coding Club,"Python, Web Development, Machine Learning",No,,Higher Studies,6.04,5.18,7.05,5.22,8.24,6.11,5.9,7.03,1,1,0.997919,True
+18.0,Female,IT,6.54,2.0,98.06,"Cultural Club, Entrepreneurship Cell","Machine Learning, Data Science",No,,Higher Studies,6.33,6.25,7.4,6.32,6.8,6.48,7.44,5.26,1,1,0.9982639,True
+21.0,Female,IT,7.1,0.0,92.29,"Sports Club, Coding Club","C++, Data Science, SQL, Web Development, Python",Yes,Hardware,Startup,7.23,8.24,8.22,8.02,6.74,5.16,5.14,8.02,1,1,0.99847907,True
+21.0,Male,IT,7.1,0.0,92.29,"Sports Club, Coding Club","C++, Data Science, SQL, Web Development, Python",Yes,Hardware,Startup,7.23,8.24,8.22,8.02,6.74,5.16,5.14,8.02,1,1,0.9984101,True
+21.0,Female,ECE,7.14,0.0,60.16,Literary Society,"Machine Learning, Web Development, Java",No,,Startup,7.68,6.8,5.29,7.33,8.01,8.28,6.62,7.15,1,1,0.99882776,True
+19.0,Female,IT,7.04,1.0,96.47,"Literary Society, Cultural Club, Sports Club","Data Science, Python, Java",Yes,Consulting,Research,6.51,5.94,6.26,6.9,8.84,8.47,6.35,7.06,1,1,0.5304634,True
+21.0,Female,CSE,6.48,1.0,70.83,"Cultural Club, Literary Society","C++, Web Development, Java, Machine Learning, Data Science",No,,Startup,6.7,6.2,6.57,5.89,5.31,6.3,7.63,7.23,1,1,0.9979102,True
+19.0,Female,ECE,7.27,2.0,75.31,Sports Club,"Data Science, Machine Learning, C++, Web Development",No,,Job,6.6,6.79,7.44,6.21,8.04,7.75,7.02,8.32,1,1,0.9979182,True
+19.0,Female,EEE,6.66,4.0,86.28,Coding Club,"Data Science, Web Development, C++",Yes,Hardware,,7.78,5.38,5.79,6.76,7.12,5.99,6.72,7.72,0,0,0.16512586,True
+22.0,Male,EEE,6.41,0.0,85.67,"Entrepreneurship Cell, Literary Society","Data Science, Python",Yes,Research,Higher Studies,6.81,6.31,5.87,6.53,5.11,6.27,8.24,6.18,1,1,0.9986222,True
+19.0,Male,ECE,7.26,1.0,65.35,"Entrepreneurship Cell, Sports Club, Cultural Club","SQL, Data Science, Web Development, Python, C++",Yes,Higher Studies,,7.84,7.56,7.24,8.37,5.84,7.07,6.26,7.89,0,0,0.028628657,True
+18.0,Female,IT,7.02,1.0,75.09,"Sports Club, Cultural Club","Data Science, Web Development, C++",No,,Research,7.79,6.71,6.63,6.18,6.37,6.73,8.96,6.8,1,1,0.8105681,True
+19.0,Female,IT,7.02,1.0,80.6,Literary Society,"Python, Java, Machine Learning, Data Science",No,,Job,6.85,7.27,7.99,6.73,8.2,5.32,8.6,5.21,1,1,0.99846625,True
+20.0,Female,ECE,7.12,0.0,85.71,"Cultural Club, Entrepreneurship Cell, Robotics","Python, Machine Learning",Yes,Software,Job,7.07,8.03,7.28,7.26,5.03,7.68,7.06,7.54,1,1,0.9979177,True
+18.0,Female,IT,6.88,1.0,89.14,Robotics,"Web Development, C++, Machine Learning",No,,,7.25,6.1,6.43,7.85,7.75,6.32,6.84,6.46,0,0,0.028488757,True
+22.0,Female,IT,7.29,1.0,60.47,"Literary Society, Robotics, Sports Club","Python, C++, Machine Learning",Yes,Consulting,,7.38,8.37,6.37,7.57,6.89,6.82,6.23,8.67,0,0,0.17040265,True
+21.0,Male,EEE,7.41,1.0,76.45,Coding Club,"Python, SQL",Yes,Higher Studies,Job,6.44,8.58,5.99,7.07,8.11,8.84,6.31,7.96,1,1,0.9979844,True
+21.0,Male,IT,6.69,1.0,61.47,"Robotics, Cultural Club","C++, Machine Learning, Python, Java",Yes,Hardware,,7.61,7.76,6.47,6.42,6.72,4.7,5.48,8.37,0,0,0.028206898,True
+20.0,Female,MECH,7.15,0.0,79.02,"Coding Club, Entrepreneurship Cell","Python, Web Development, Machine Learning, C++",No,,Research,8.16,7.05,4.83,6.49,8.79,7.3,7.69,6.91,1,0,0.18623479,False
+20.0,Female,ECE,7.02,0.0,89.66,"Sports Club, Coding Club","Python, SQL, Data Science, C++, Java",Yes,Core Engineering,Job,6.86,7.65,8.4,7.33,6.03,6.1,7.73,6.04,1,1,0.9982254,True
+20.0,Male,MECH,7.45,1.0,97.24,"Coding Club, Robotics, Sports Club","Python, Java",No,,Job,9.1,6.54,6.72,6.56,7.24,7.59,8.09,7.76,1,1,0.9977654,True
+20.0,Female,ECE,6.71,0.0,83.11,"Cultural Club, Coding Club, Sports Club","SQL, Java, C++, Python, Web Development",Yes,Research,Startup,7.31,6.59,6.89,6.65,7.12,6.15,6.39,6.59,1,1,0.99827397,True
+21.0,Male,CIVIL,7.08,3.0,73.41,"Literary Society, Robotics, Sports Club","Web Development, Python, Java, SQL",No,,Research,5.87,7.62,7.63,6.2,7.9,6.37,7.25,7.82,1,1,0.766511,True
+22.0,Male,ECE,7.31,1.0,96.95,"Literary Society, Coding Club, Robotics","Python, Data Science, Java, C++, SQL",Yes,Core Engineering,Startup,5.11,5.68,8.38,7.06,8.18,7.18,9.46,7.44,1,1,0.99806553,True
+18.0,Female,CIVIL,6.99,1.0,71.87,Literary Society,"Web Development, Python, SQL, C++",No,,Startup,6.74,6.49,7.3,6.21,7.9,6.86,6.64,7.75,1,1,0.99776626,True
+18.0,Male,MECH,6.99,0.0,82.63,"Literary Society, Robotics, Sports Club","Machine Learning, Web Development, Data Science, Python, Java",Yes,Research,Job,6.85,7.35,6.01,6.85,6.8,7.18,7.33,7.56,1,1,0.9986683,True
+22.0,Female,CIVIL,6.86,0.0,96.83,"Sports Club, Literary Society, Robotics","Machine Learning, SQL, Python, Java, Web Development",Yes,Hardware,Job,6.77,8.44,6.11,5.48,7.44,7.62,6.41,6.65,1,1,0.9984276,True
+22.0,Female,EEE,6.77,0.0,68.27,"Coding Club, Sports Club, Entrepreneurship Cell","C++, SQL, Machine Learning",No,,Startup,6.24,6.61,7.38,5.69,6.6,6.96,5.9,8.8,1,1,0.99790925,True
+23.0,Male,MECH,7.71,1.0,65.63,Entrepreneurship Cell,"C++, Java, Web Development, Python, Data Science",Yes,Software,,7.66,8.81,8.33,6.03,5.06,9.36,9.27,7.19,0,0,0.07077273,True
+19.0,Male,CIVIL,7.29,1.0,70.78,"Robotics, Sports Club","SQL, C++, Web Development",No,,,8.16,6.58,8.11,7.6,7.93,5.9,7.1,6.95,0,0,0.32022133,True
+23.0,Male,CIVIL,6.92,0.0,67.02,"Coding Club, Robotics, Entrepreneurship Cell","Java, Web Development",No,,,7.22,6.73,7.33,5.79,6.14,6.13,9.17,6.83,0,0,0.20448473,True
+18.0,Male,IT,7.06,1.0,87.66,"Literary Society, Sports Club, Cultural Club","Java, Machine Learning, C++, Data Science",No,,Higher Studies,6.86,6.52,6.26,5.53,8.8,7.17,6.56,8.82,1,1,0.99810696,True
+23.0,Male,ECE,6.74,0.0,82.37,"Literary Society, Sports Club, Coding Club","Machine Learning, Web Development, Python, Java, SQL",No,,,7.8,5.82,6.9,7.99,5.78,7.42,6.96,5.25,0,0,0.31950814,True
+18.0,Male,MECH,6.96,1.0,82.97,"Literary Society, Coding Club, Robotics","Web Development, Java, C++, Python",Yes,Higher Studies,Research,8.05,5.16,7.25,7.89,5.55,6.08,8.21,7.53,1,1,0.797383,True
+23.0,Female,IT,7.39,0.0,76.12,"Literary Society, Sports Club, Cultural Club","C++, Java, Machine Learning, Python",No,,Research,6.58,5.87,7.22,7.77,7.68,6.86,9.0,8.14,1,1,0.69270504,True
+19.0,Female,CIVIL,7.71,0.0,72.0,"Coding Club, Cultural Club, Sports Club","SQL, C++, Data Science",Yes,Consulting,Higher Studies,7.71,6.92,6.7,8.69,8.78,7.64,7.97,7.24,1,1,0.998226,True
+19.0,Male,IT,7.69,2.0,92.45,"Cultural Club, Robotics, Entrepreneurship Cell","Java, Web Development, C++, SQL, Data Science",Yes,Software,,7.0,7.76,8.93,7.41,7.57,7.15,8.17,7.53,0,0,0.08943672,True
+22.0,Female,ECE,6.69,4.0,77.85,"Entrepreneurship Cell, Robotics","Web Development, Data Science, SQL",No,,Higher Studies,6.53,6.97,6.32,6.1,7.74,6.84,7.04,6.0,1,1,0.9974317,True
+23.0,Male,CIVIL,7.28,1.0,61.4,"Cultural Club, Robotics, Coding Club","Web Development, Machine Learning, SQL, Python",No,,Research,6.18,7.9,8.32,6.91,6.19,6.41,7.36,8.96,1,0,0.23981029,False
+19.0,Female,EEE,7.06,0.0,92.06,Entrepreneurship Cell,"Machine Learning, Java, Web Development, Python",No,,,9.12,6.77,4.0,8.46,7.5,7.66,6.0,6.96,0,0,0.48600468,True
+19.0,Male,CIVIL,7.07,1.0,77.98,"Robotics, Sports Club, Literary Society","C++, Python",No,,,8.48,7.1,6.94,5.44,8.06,6.54,7.03,6.97,0,0,0.03271396,True
+23.0,Female,IT,7.62,1.0,94.0,"Robotics, Sports Club","Java, C++, Machine Learning, SQL, Data Science",No,,,7.41,6.4,7.09,8.59,7.12,8.52,8.2,7.59,0,0,0.059650563,True
+23.0,Male,IT,6.48,0.0,71.19,"Coding Club, Sports Club, Robotics","Web Development, Python, Java, C++",No,,Job,5.84,6.69,6.3,5.93,6.63,6.78,7.14,6.5,1,1,0.9982495,True
+22.0,Female,ECE,7.01,0.0,78.0,Sports Club,"SQL, Java, C++, Web Development, Data Science",Yes,Higher Studies,Higher Studies,6.92,8.66,5.36,7.97,6.89,6.71,6.45,7.15,1,1,0.998187,True
+22.0,Male,EEE,6.41,2.0,86.0,"Sports Club, Robotics, Coding Club","Machine Learning, C++",No,,Research,7.83,6.37,7.86,4.29,6.28,6.08,5.75,6.79,1,1,0.87955785,True
+22.0,Female,EEE,7.61,0.0,78.22,"Cultural Club, Entrepreneurship Cell, Sports Club","SQL, C++, Machine Learning, Data Science",No,,Job,6.51,8.07,7.5,9.08,8.18,8.14,5.61,7.76,1,1,0.9980716,True
+22.0,Male,MECH,7.32,1.0,68.08,"Literary Society, Entrepreneurship Cell, Coding Club","Machine Learning, Data Science, Python, C++, Java",Yes,Hardware,,7.56,8.16,6.65,8.44,5.28,8.08,8.15,6.23,0,0,0.043998405,True
+20.0,Male,EEE,7.16,1.0,77.43,"Literary Society, Sports Club, Robotics","Python, SQL, Machine Learning, Java, Data Science",Yes,Hardware,Research,7.57,5.84,6.9,8.2,6.13,7.83,6.67,8.16,1,1,0.8177423,True
+19.0,Female,CSE,7.2,1.0,70.6,"Entrepreneurship Cell, Robotics","Machine Learning, Python, Web Development, Java",Yes,Higher Studies,Higher Studies,7.82,7.68,7.16,5.17,7.68,7.5,7.41,7.2,1,1,0.99832696,True
+19.0,Female,EEE,7.01,1.0,96.52,"Entrepreneurship Cell, Coding Club, Robotics","Python, Web Development, SQL, Machine Learning",Yes,Higher Studies,Startup,7.18,5.15,7.46,6.89,8.13,6.33,6.8,8.12,1,1,0.99812454,True
+18.0,Female,ECE,7.6,0.0,82.46,"Sports Club, Robotics, Literary Society","Python, Web Development, C++, Data Science",Yes,Hardware,,6.94,7.43,7.5,7.04,7.62,6.58,9.22,8.49,0,0,0.14586145,True
+19.0,Female,CSE,6.88,1.0,69.59,Coding Club,"Web Development, Java, Machine Learning, SQL",Yes,Core Engineering,,6.83,8.31,6.91,4.76,6.5,7.99,7.55,6.16,0,0,0.08319262,True
+20.0,Female,CSE,6.74,1.0,93.84,"Entrepreneurship Cell, Cultural Club","Machine Learning, Web Development, SQL, Data Science",No,,,8.1,4.99,5.13,6.08,6.1,8.4,6.83,8.25,0,0,0.14795224,True
+22.0,Male,EEE,6.53,0.0,75.72,"Entrepreneurship Cell, Sports Club, Coding Club","C++, Data Science, Java, Machine Learning",No,,,7.45,5.13,5.84,6.72,6.7,5.79,7.39,7.25,0,0,0.117221124,True
+22.0,Female,IT,7.35,1.0,64.94,"Cultural Club, Coding Club","Python, Machine Learning, Data Science, Java",Yes,Research,Job,6.78,8.85,8.13,7.75,7.13,6.59,7.7,5.87,1,1,0.9981232,True
+21.0,Male,IT,7.02,0.0,81.52,"Robotics, Entrepreneurship Cell","Python, Java, Machine Learning, Data Science",Yes,Consulting,,5.93,6.22,7.69,6.77,8.59,7.5,6.51,6.99,0,0,0.14486739,True
+18.0,Female,MECH,6.99,3.0,84.15,"Entrepreneurship Cell, Coding Club, Literary Society","Data Science, Java, Machine Learning",Yes,Hardware,Startup,6.14,6.39,8.12,7.01,6.82,6.89,8.29,6.25,1,1,0.99838674,True
+18.0,Male,MECH,6.94,3.0,93.73,Sports Club,"Data Science, Machine Learning",Yes,Consulting,,7.56,5.46,5.93,6.21,7.54,6.7,8.36,7.8,0,0,0.06962662,True
+23.0,Male,CSE,6.33,1.0,95.82,Cultural Club,"Java, Python, Web Development, SQL",No,,Job,8.75,4.94,5.29,7.44,4.52,4.96,8.18,6.59,1,1,0.9985655,True
+23.0,Male,IT,7.62,0.0,70.79,"Literary Society, Cultural Club, Sports Club","Python, SQL",No,,,7.85,8.22,8.21,6.91,7.36,8.3,6.7,7.38,0,0,0.05786618,True
+20.0,Female,ECE,7.66,0.0,64.33,"Literary Society, Sports Club, Coding Club","Web Development, C++",No,,Higher Studies,8.91,6.93,6.75,8.09,7.4,6.82,6.36,10.0,1,1,0.99714285,True
+23.0,Male,CSE,7.16,2.0,61.73,"Coding Club, Cultural Club, Robotics","SQL, Data Science, Python, Java, C++",No,,,7.69,6.74,6.56,6.97,7.04,7.89,7.59,6.84,0,0,0.08516331,True
+18.0,Male,ECE,7.4,1.0,74.12,Robotics,"C++, Python, Web Development, Machine Learning",No,,,7.68,7.83,6.0,7.09,6.47,7.7,7.8,8.63,0,0,0.13594733,True
+23.0,Female,MECH,7.32,1.0,99.8,"Entrepreneurship Cell, Sports Club, Literary Society","Web Development, C++, Java",Yes,Higher Studies,,7.28,8.57,6.83,5.69,8.09,7.18,7.95,6.96,0,0,0.100346446,True
+20.0,Male,ECE,6.96,0.0,95.83,Robotics,"Java, Machine Learning, Python",No,,,7.15,6.83,7.09,6.98,9.58,5.67,5.01,7.33,0,0,0.28069574,True
+22.0,Female,MECH,6.66,0.0,92.51,"Sports Club, Robotics","Machine Learning, Web Development, Java",Yes,Higher Studies,,5.94,7.63,6.13,6.66,7.38,6.2,5.85,7.47,0,0,0.030104158,True
+18.0,Female,EEE,6.73,0.0,64.75,"Coding Club, Entrepreneurship Cell","C++, SQL",No,,,5.79,6.82,6.73,7.22,6.8,6.93,7.64,5.89,0,0,0.07097155,True
+20.0,Male,IT,6.52,0.0,60.28,Robotics,"Web Development, Python, Machine Learning, Java, SQL",No,,,5.96,7.67,6.2,6.05,5.56,6.52,6.92,7.24,0,0,0.044306275,True
+20.0,Female,MECH,6.62,1.0,63.29,"Sports Club, Robotics","Machine Learning, SQL",Yes,Consulting,,6.55,4.1,6.34,7.3,6.45,6.78,8.5,6.92,0,0,0.09803784,True
+20.0,Female,ECE,6.96,0.0,87.58,"Entrepreneurship Cell, Cultural Club","Java, Data Science",Yes,Research,Job,6.02,6.99,6.06,6.59,7.48,7.15,8.06,7.29,1,1,0.9979565,True
+20.0,Male,ECE,6.87,1.0,89.07,"Literary Society, Sports Club, Cultural Club","Python, Web Development",No,,Startup,6.57,7.09,5.62,8.39,7.68,6.63,6.1,6.91,1,1,0.99807966,True
+18.0,Female,MECH,6.66,2.0,84.86,"Cultural Club, Literary Society, Robotics","Web Development, Data Science, Python",No,,Research,6.52,7.84,5.95,4.47,6.77,6.86,7.14,7.73,1,1,0.5774516,True
+21.0,Female,IT,6.28,0.0,78.56,"Sports Club, Literary Society","Machine Learning, Python, Web Development",Yes,Research,,6.35,7.03,6.95,5.42,6.06,6.44,4.96,7.05,0,0,0.03798926,True
+22.0,Male,ECE,6.97,0.0,62.58,"Sports Club, Entrepreneurship Cell, Coding Club","Python, SQL, C++, Web Development, Java",No,,Higher Studies,7.2,7.54,6.42,6.92,6.94,7.83,5.93,6.95,1,1,0.99755645,True
+19.0,Male,CSE,6.79,1.0,95.93,"Coding Club, Cultural Club","Machine Learning, Web Development",Yes,Software,Research,6.57,6.46,7.09,7.55,7.12,7.71,5.03,6.78,1,1,0.7853603,True
+20.0,Female,IT,7.06,1.0,79.27,"Coding Club, Robotics, Entrepreneurship Cell","Python, SQL, Data Science, C++",Yes,Consulting,Higher Studies,7.0,7.05,6.68,7.55,8.05,7.58,6.79,5.78,1,1,0.99763536,True
+20.0,Female,MECH,6.82,0.0,72.53,Coding Club,"Machine Learning, SQL, Python, Web Development, Data Science",Yes,Research,,7.31,5.76,6.72,7.64,5.97,7.56,5.5,8.14,0,0,0.14175655,True
+19.0,Female,IT,6.52,1.0,85.36,"Entrepreneurship Cell, Coding Club","Web Development, Machine Learning",No,,Higher Studies,7.78,5.88,7.05,5.43,7.34,7.68,5.38,5.66,1,1,0.998312,True
+19.0,Male,IT,6.87,1.0,79.11,"Sports Club, Literary Society, Coding Club","Data Science, SQL",No,,,6.9,6.37,7.78,6.94,5.61,8.04,6.25,7.04,0,0,0.1877374,True
+18.0,Male,EEE,6.72,2.0,89.6,Cultural Club,"Web Development, SQL, Java",No,,Higher Studies,7.34,7.74,7.56,4.97,6.54,6.03,6.69,6.89,1,1,0.9989581,True
+18.0,Female,CIVIL,6.84,1.0,89.39,"Cultural Club, Sports Club, Robotics","Java, Python, C++, Data Science",Yes,Hardware,,4.6,6.78,7.6,6.48,5.91,9.11,7.11,7.14,0,0,0.12519926,True
+23.0,Male,IT,6.91,1.0,96.08,Coding Club,"SQL, C++",No,,,6.71,5.83,7.34,5.03,7.62,7.02,8.9,6.8,0,0,0.13859087,True
+23.0,Female,CSE,6.82,0.0,81.77,"Literary Society, Entrepreneurship Cell, Robotics","Data Science, Java, Python, Web Development",No,,Startup,5.92,8.02,5.74,5.92,7.06,6.68,7.8,7.45,1,1,0.99830484,True
+22.0,Male,CIVIL,6.43,0.0,63.39,"Sports Club, Cultural Club, Robotics","SQL, Data Science, Java, Machine Learning, Python",Yes,Software,,6.27,5.34,6.67,6.06,6.35,7.61,6.95,6.17,0,0,0.024358936,True
+23.0,Male,ECE,6.59,1.0,74.06,"Literary Society, Sports Club","Java, Machine Learning, SQL, Web Development",Yes,Core Engineering,,6.95,5.88,7.3,5.28,7.28,6.72,7.37,5.95,0,0,0.029385531,True
+21.0,Female,ECE,7.61,1.0,64.99,Cultural Club,"Data Science, Web Development, Java, SQL",No,,Job,8.2,7.08,7.31,7.32,7.77,8.12,7.63,7.48,1,1,0.99810493,True
+22.0,Male,MECH,7.25,1.0,71.29,"Sports Club, Literary Society, Entrepreneurship Cell","Java, C++",No,,Research,7.68,8.1,6.25,8.05,8.44,6.96,6.26,6.28,1,1,0.78845125,True
+23.0,Male,CSE,6.46,2.0,93.53,"Sports Club, Literary Society","C++, Machine Learning, Python, Web Development, Java",Yes,Consulting,,5.3,7.53,7.75,6.11,6.34,7.15,5.8,5.73,0,0,0.08311228,True
+20.0,Male,CSE,6.99,1.0,60.53,Robotics,"Machine Learning, Data Science, Python",Yes,Higher Studies,,6.47,6.88,7.22,6.23,7.14,6.97,8.13,6.9,0,0,0.11184212,True
+23.0,Male,CIVIL,7.05,1.0,88.84,"Robotics, Literary Society","Machine Learning, Java, SQL",No,,Higher Studies,8.87,8.01,6.54,7.78,6.6,5.89,6.1,6.64,1,1,0.9977539,True
+21.0,Female,IT,6.77,3.0,95.63,"Coding Club, Robotics, Sports Club","C++, Web Development, Java, Python, Data Science",No,,,7.2,5.95,7.78,6.37,7.2,6.54,7.35,5.8,0,0,0.25119066,True
+19.0,Female,MECH,6.49,1.0,75.64,"Cultural Club, Entrepreneurship Cell, Coding Club","Machine Learning, Python, C++, SQL",No,,Startup,5.46,5.81,7.06,5.39,6.45,7.81,7.45,6.47,1,1,0.9982986,True
+23.0,Male,CIVIL,7.28,1.0,61.4,"Cultural Club, Robotics, Coding Club","Web Development, Machine Learning, SQL, Python",No,,Research,6.18,7.9,8.32,6.91,6.19,6.41,7.36,8.96,1,0,0.23981029,False
+19.0,Female,CSE,6.89,1.0,60.43,"Entrepreneurship Cell, Cultural Club, Sports Club","SQL, Web Development, Java",Yes,Software,,6.37,7.84,6.12,7.67,6.21,5.8,5.85,9.26,0,0,0.12848723,True
+18.0,Male,MECH,7.13,1.0,82.59,"Sports Club, Cultural Club","SQL, C++, Machine Learning, Python, Java",Yes,Software,,7.44,7.18,7.33,7.31,5.04,8.15,6.89,7.71,0,0,0.21560872,True
+20.0,Female,ECE,7.3,1.0,64.62,"Sports Club, Coding Club","Web Development, C++, SQL, Python, Data Science",Yes,Core Engineering,,7.57,6.96,7.63,7.27,7.93,7.9,6.78,6.34,0,0,0.2551172,True
+23.0,Male,ECE,6.8,3.0,93.37,"Robotics, Sports Club, Literary Society","Web Development, Machine Learning, Data Science",Yes,Higher Studies,Research,6.74,6.88,6.21,7.18,6.75,7.11,6.84,6.65,1,1,0.9584528,True
+23.0,Male,CIVIL,7.0,0.0,74.5,"Cultural Club, Coding Club, Literary Society","Java, Web Development",No,,Startup,7.56,5.66,7.49,5.45,8.08,6.53,6.91,8.33,1,1,0.9981902,True
+22.0,Female,CIVIL,7.0,0.0,72.98,"Cultural Club, Coding Club, Literary Society","Web Development, C++, Python, SQL, Data Science",Yes,Hardware,,7.86,7.15,7.09,5.95,6.77,7.97,6.22,6.97,0,0,0.084458105,True
+20.0,Male,CIVIL,7.34,2.0,61.05,"Entrepreneurship Cell, Robotics, Cultural Club","Python, Web Development, C++, Machine Learning, SQL",Yes,Higher Studies,,7.34,8.88,7.95,6.42,6.1,7.49,5.68,8.83,0,0,0.1873015,True
+19.0,Male,ECE,6.86,2.0,78.21,"Cultural Club, Literary Society, Sports Club","Data Science, Python, Java, C++, SQL",Yes,Consulting,,5.75,9.61,6.27,6.64,6.18,7.62,6.8,6.04,0,0,0.09106467,True
+21.0,Female,EEE,7.16,0.0,89.66,Literary Society,"SQL, Python",Yes,Higher Studies,,6.35,6.1,6.82,8.58,8.01,5.5,8.2,7.68,0,0,0.030640814,True
+19.0,Male,CSE,6.89,1.0,60.43,"Entrepreneurship Cell, Cultural Club, Sports Club","SQL, Web Development, Java",Yes,Software,,6.37,7.84,6.12,7.67,6.21,5.8,5.85,9.26,0,0,0.13459982,True
+20.0,Male,CIVIL,7.98,0.0,84.96,Literary Society,"Java, SQL",Yes,Higher Studies,,7.32,7.2,8.3,9.6,7.67,8.18,9.54,5.99,0,0,0.0825886,True
+18.0,Male,IT,7.12,1.0,61.13,"Coding Club, Cultural Club, Sports Club","Machine Learning, Java",Yes,Research,,6.68,6.2,7.57,8.39,7.47,7.1,6.01,7.52,0,0,0.05387213,True
+19.0,Female,IT,6.67,1.0,96.62,"Robotics, Literary Society","Data Science, Python, C++, SQL",Yes,Research,,6.67,7.74,7.13,5.01,7.94,6.61,5.73,6.56,0,0,0.09972304,True
+18.0,Female,MECH,7.06,2.0,82.62,"Entrepreneurship Cell, Robotics, Cultural Club","Web Development, C++, Machine Learning",No,,,7.12,7.23,8.52,7.29,8.39,6.22,5.4,6.35,0,0,0.08128412,True
+21.0,Female,ECE,7.02,0.0,75.63,"Sports Club, Coding Club, Robotics","Data Science, SQL, Python, C++, Java",No,,,6.41,8.27,6.89,6.62,6.08,7.27,7.19,7.39,0,0,0.33088717,True
+19.0,Male,ECE,7.0,1.0,61.45,Cultural Club,"Web Development, Machine Learning, C++, Python",Yes,Hardware,,7.59,7.55,6.4,6.3,7.14,7.17,6.15,7.7,0,0,0.030179312,True
+22.0,Female,ECE,6.84,1.0,71.33,Cultural Club,"Web Development, Java, Data Science",No,,Job,6.62,7.39,5.29,7.11,6.06,8.17,6.05,8.0,1,1,0.99829787,True
+19.0,Male,CIVIL,7.38,3.0,89.21,"Literary Society, Coding Club, Entrepreneurship Cell","Data Science, C++",No,,,8.21,8.14,6.21,6.6,6.08,7.33,8.73,7.7,0,0,0.13780062,True
+19.0,Female,CSE,6.96,2.0,71.74,Robotics,"Machine Learning, SQL, Java",No,,Research,7.17,7.39,6.12,7.15,7.06,5.86,7.36,7.56,1,0,0.065322116,False
+22.0,Male,CIVIL,6.71,3.0,86.48,"Literary Society, Entrepreneurship Cell","SQL, Web Development, Java",No,,Job,6.4,8.17,5.33,5.51,7.14,7.03,6.28,7.81,1,1,0.99842477,True
+18.0,Male,ECE,6.67,1.0,98.74,Robotics,"Web Development, Data Science, Python",No,,Higher Studies,7.27,6.46,5.61,6.95,6.96,6.74,7.78,5.62,1,1,0.99857664,True
+21.0,Male,EEE,7.1,0.0,92.3,"Literary Society, Coding Club, Cultural Club","SQL, Python, C++",No,,Job,6.66,7.43,6.41,6.81,6.5,8.44,7.34,7.22,1,1,0.99834204,True
+18.0,Male,CSE,6.8,1.0,87.1,"Cultural Club, Coding Club, Sports Club","SQL, Python, Java",No,,Job,7.5,5.6,7.37,4.9,7.63,7.89,6.41,7.12,1,1,0.9988174,True
+18.0,Male,IT,7.12,1.0,61.13,"Coding Club, Cultural Club, Sports Club","Machine Learning, Java",Yes,Research,,6.68,6.2,7.57,8.39,7.47,7.1,6.01,7.52,0,0,0.05387213,True
+22.0,Male,ECE,7.01,0.0,78.0,Sports Club,"SQL, Java, C++, Web Development, Data Science",Yes,Higher Studies,Higher Studies,6.92,8.66,5.36,7.97,6.89,6.71,6.45,7.15,1,1,0.99820983,True
+21.0,Female,EEE,6.96,1.0,79.94,"Robotics, Sports Club, Coding Club","C++, Python, Machine Learning",No,,,6.55,8.61,7.63,5.65,7.55,6.31,7.14,6.27,0,0,0.052436482,True
+20.0,Male,EEE,6.67,1.0,67.03,"Coding Club, Robotics","Data Science, C++",No,,Startup,6.47,8.13,6.41,9.06,5.36,6.04,6.84,5.02,1,1,0.997851,True
+23.0,Female,CIVIL,7.5,1.0,99.1,"Coding Club, Robotics, Sports Club","Java, Python, Web Development, Data Science, C++",No,,Job,6.68,7.02,6.66,5.36,8.09,7.9,8.99,9.28,1,1,0.9981785,True
+21.0,Female,MECH,7.05,3.0,60.09,"Coding Club, Sports Club, Cultural Club","C++, Data Science, Machine Learning, Web Development",No,,Job,6.33,6.36,6.18,7.84,7.17,7.92,8.03,6.54,1,1,0.9983569,True
+23.0,Female,MECH,7.02,0.0,83.29,"Cultural Club, Sports Club","C++, SQL, Data Science",No,,,7.42,6.83,7.4,6.96,7.11,6.06,7.04,7.38,0,0,0.056376133,True
+19.0,Female,EEE,7.18,1.0,98.45,"Literary Society, Cultural Club","Web Development, SQL",Yes,Core Engineering,Startup,6.54,7.07,6.82,8.2,7.7,6.83,6.09,8.19,1,1,0.99832636,True
+19.0,Female,ECE,6.96,0.0,64.05,"Entrepreneurship Cell, Robotics","Java, Machine Learning, Python, C++, Web Development",Yes,Research,Research,6.92,5.12,8.54,6.64,7.63,6.89,6.73,7.19,1,1,0.75739294,True
+19.0,Male,IT,7.69,2.0,92.45,"Cultural Club, Robotics, Entrepreneurship Cell","Java, Web Development, C++, SQL, Data Science",Yes,Software,,7.0,7.76,8.93,7.41,7.57,7.15,8.17,7.53,0,0,0.08943672,True
+23.0,Male,CIVIL,7.51,0.0,63.39,Entrepreneurship Cell,"C++, Python",Yes,Consulting,,8.3,8.56,7.03,6.25,7.46,6.32,9.01,7.14,0,0,0.047219884,True
+21.0,Female,IT,6.77,0.0,74.06,"Coding Club, Literary Society, Sports Club","SQL, C++, Machine Learning",Yes,Higher Studies,,6.19,7.27,6.23,7.24,7.26,6.53,6.94,6.47,0,0,0.02832479,True
+19.0,Female,CIVIL,7.12,1.0,89.12,"Sports Club, Coding Club, Cultural Club","Java, Web Development, C++",No,,,8.86,7.22,6.65,5.39,6.74,6.66,7.96,7.46,0,0,0.03245223,True
+18.0,Male,CIVIL,6.7,0.0,71.32,Robotics,"C++, Machine Learning, Data Science",No,,Research,6.95,7.18,7.22,6.75,6.61,5.68,5.87,7.33,1,1,0.5427657,True
+18.0,Female,ECE,7.06,0.0,78.54,"Coding Club, Cultural Club","Python, Web Development",No,,Job,8.03,7.68,6.61,7.32,8.26,6.8,6.69,5.11,1,1,0.9977865,True
+18.0,Male,ECE,7.19,0.0,93.96,Sports Club,"C++, Machine Learning",No,,Job,9.22,7.06,8.07,7.22,6.18,6.96,5.09,7.69,1,1,0.9983119,True
+19.0,Female,MECH,6.53,2.0,97.96,Coding Club,"Web Development, SQL, Java",No,,,7.41,7.92,5.07,6.18,6.57,6.19,5.45,7.42,0,0,0.07189284,True
+23.0,Male,MECH,7.32,1.0,99.8,"Entrepreneurship Cell, Sports Club, Literary Society","Web Development, C++, Java",Yes,Higher Studies,,7.28,8.57,6.83,5.69,8.09,7.18,7.95,6.96,0,0,0.10884878,True
+23.0,Male,IT,6.92,0.0,73.01,"Coding Club, Literary Society, Cultural Club","Python, SQL",Yes,Software,,6.27,5.98,5.97,6.25,8.22,7.82,6.75,8.13,0,0,0.06686247,True
+18.0,Female,ECE,7.01,1.0,77.85,"Sports Club, Entrepreneurship Cell, Coding Club","Data Science, Web Development, Machine Learning",No,,Higher Studies,7.15,6.66,6.98,6.89,8.22,5.92,6.24,8.04,1,1,0.99794215,True
+18.0,Male,ECE,7.03,0.0,81.33,"Sports Club, Coding Club","Data Science, Web Development",Yes,Core Engineering,,6.45,8.69,7.47,6.98,7.02,6.05,6.93,6.65,0,0,0.08595438,True
+23.0,Female,EEE,6.87,1.0,66.94,"Cultural Club, Coding Club","Python, C++, Java, Web Development, SQL",No,,Startup,4.92,8.72,6.71,7.29,6.95,6.58,6.43,7.33,1,1,0.997797,True
+18.0,Female,IT,7.52,1.0,61.61,Coding Club,"Machine Learning, Data Science, SQL",No,,,7.65,5.82,8.14,8.14,8.22,6.19,7.72,8.24,0,0,0.13420732,True
+19.0,Female,CSE,7.72,0.0,70.44,"Cultural Club, Entrepreneurship Cell","Data Science, Python, SQL, Web Development, Java",No,,Startup,6.33,7.89,7.87,7.34,8.94,8.29,8.07,7.07,1,1,0.9983615,True
+23.0,Female,CIVIL,7.43,2.0,99.04,"Robotics, Sports Club, Entrepreneurship Cell","Java, C++, Python, SQL",No,,Higher Studies,9.41,7.78,6.98,6.74,7.02,7.55,5.82,8.11,1,1,0.9975158,True
+22.0,Male,CSE,7.14,0.0,86.81,"Sports Club, Literary Society","Python, Java, SQL",Yes,Consulting,,5.61,8.62,6.59,8.47,8.19,4.15,7.48,8.0,0,0,0.033564586,True
+22.0,Female,CIVIL,6.71,3.0,86.48,"Literary Society, Entrepreneurship Cell","SQL, Web Development, Java",No,,Job,6.4,8.17,5.33,5.51,7.14,7.03,6.28,7.81,1,1,0.9984067,True
+21.0,Female,CSE,6.53,2.0,85.67,Entrepreneurship Cell,"Web Development, Java",Yes,Research,,6.92,6.54,6.48,6.5,6.01,6.17,6.03,7.57,0,0,0.15639293,True
+21.0,Female,EEE,7.02,0.0,84.85,Coding Club,"Machine Learning, C++, Web Development, Python",Yes,Hardware,,6.4,6.24,6.93,8.2,5.68,7.01,7.73,7.93,0,0,0.05662929,True
+21.0,Male,IT,7.14,0.0,67.17,"Robotics, Cultural Club","Data Science, Machine Learning",No,,,8.23,7.46,7.25,7.81,6.74,6.23,6.4,7.0,0,0,0.028228762,True
+20.0,Male,CSE,6.9,0.0,81.67,"Entrepreneurship Cell, Robotics, Sports Club","Java, Data Science, Web Development, C++",Yes,Research,Research,8.32,6.46,6.81,7.1,5.97,7.23,5.28,8.05,1,1,0.6060887,True
+22.0,Male,MECH,6.61,1.0,98.13,"Cultural Club, Coding Club","C++, Java, Web Development",No,,,7.15,7.72,8.74,5.94,5.99,7.0,6.04,4.29,0,0,0.072543696,True
+19.0,Female,CIVIL,7.16,2.0,85.45,"Robotics, Literary Society","Java, Web Development, Python, C++, Machine Learning",Yes,Core Engineering,,7.03,5.51,7.49,7.72,9.3,8.08,5.1,7.08,0,0,0.14190638,True
+18.0,Male,MECH,7.04,1.0,81.05,"Entrepreneurship Cell, Coding Club","Python, SQL",Yes,Consulting,,6.59,5.62,6.3,7.58,7.68,7.41,8.3,6.81,0,0,0.1742148,True
